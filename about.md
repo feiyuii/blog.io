@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "     " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+上跪天地 下拜父母。、
+
+但行好事 莫问前程。
 
 
 
