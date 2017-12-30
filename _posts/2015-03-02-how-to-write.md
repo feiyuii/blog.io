@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 太极拳 
-date: 2015-3-02
+date: 2017-12-31
 categories: blog
 tags: [养生,功夫]
 description: 文章金句。
