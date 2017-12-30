@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "代表作"
+description: " "
 header-img: "img/zhihu.jpg"
 ---
 
