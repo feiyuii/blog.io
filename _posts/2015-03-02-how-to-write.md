@@ -3,7 +3,7 @@ layout: post
 title: 太极拳 
 date: 2017-12-31
 categories: blog
-tags: [养生,功夫]
+tags: [转载,太极]
 description: 文章金句。
 ---
 
