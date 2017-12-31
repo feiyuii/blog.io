@@ -7,8 +7,8 @@ tags: [视频]
 description: 文章金句。
 ---
 
+<embed autostart="true" hidden="true" loop="true" src="http://win.web.ra03.sycdn.kuwo.cn/895daa1f072c58d7fc72b834626daada/5a48b9b3/resource/a1/48/97/18/2542820899.aac"></embed>
 
-<embed src="http://win.web.ra03.sycdn.kuwo.cn/895daa1f072c58d7fc72b834626daada/5a48b9b3/resource/a1/48/97/18/2542820899.aac" width="170" height="25" type="audio/mpeg" autostart="true" loop="infinite"></embed>
 
 
 
