@@ -10,7 +10,7 @@ description: 文章金句。
 
 
 <audio autoplay="autoplay">
-    <source = src="http://win.web.ra03.sycdn.kuwo.cn/895daa1f072c58d7fc72b834626daada/5a48b9b3/resource/a1/48/97/18/2542820899.aac" type="audio/mp3">
+    <source = src="http://win.web.ra03.sycdn.kuwo.cn/895daa1f072c58d7fc72b834626daada/5a48b9b3/resource/a1/48/97/18/2542820899.aac" type="audio/mp3/aac">
 </audio>
 
 
