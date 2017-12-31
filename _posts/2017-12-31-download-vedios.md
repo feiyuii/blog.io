@@ -7,9 +7,11 @@ tags: [视频]
 description: 文章金句。
 ---
 
-<embed autostart="true" hidden="true" loop="true" src="http://win.web.ra03.sycdn.kuwo.cn/895daa1f072c58d7fc72b834626daada/5a48b9b3/resource/a1/48/97/18/2542820899.aac"></embed>
 
 
+<audio autoplay="autoplay">
+    <source = src="http://win.web.ra03.sycdn.kuwo.cn/895daa1f072c58d7fc72b834626daada/5a48b9b3/resource/a1/48/97/18/2542820899.aac" type="audio/mp3">
+</audio>
 
 
 >1. [小视频下载](http://www.downfi.com/video/)   
