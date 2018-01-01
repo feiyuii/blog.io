@@ -1,23 +1,26 @@
 ---
 layout: post
-title: 相声团最高 
+title: 两人的相声团 
 date: 2018-01-01
 categories: blog
 tags: [视频]
 description: 文章金句。
 ---
-
+关西团真的好欢乐~！
 >1. [AK两团那些共同的萌点 上](https://www.bilibili.com/video/av16548844/)
 >1. [【KinKi Kids】调太高！不想唱！](https://www.bilibili.com/video/av10686370/)
 >1. [Happy 29 !--光一（又称逗比大爷合集）](https://www.bilibili.com/video/av2084616/)
 
-荒诞无稽化解尴尬，豁达抚平绝望。
+
+荒诞睥睨尴尬，豁达斩断绝望。
 
 谎言的谎言就是真实。
 
-喜欢相声团，暖暖的羁绊让人感到安心、舒心。（大概是因为纯粹的情感？）
+刻骨的羁绊、纯粹的信任，相守相依。
 
-关西团真的好欢乐~！
+万物有灵，此情本大。
+
+
 
 
 [ボクの背中には羽根がある (E Edit)](http://www.kugou.com/song/#hash=1EF5EB5B82F6F45C08E1675B42D96ABB&album_id=1594412)
