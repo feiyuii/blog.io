@@ -16,8 +16,7 @@ description: 文章金句。
 >1. [LOGO](http://images.shejidaren.com/wp-content/uploads/2014/09/10-commandments-of-logo-design_cn.jpg)
 >2. [COLOR](http://images.shejidaren.com/wp-content/uploads/2014/06/peise-b.png)
 >3. [秒懂的标题、文字Logo排版教程](http://www.shejidaren.com/wen-zi-pai-ban.html)
->4. [黄金比例](http://www.shejidaren.com/golden-ratio-2.html)
->>1. [黄金比例在线计算工具](http://www.shejidaren.com/golden-ratio.html)
+>4. [黄金比例](http://www.shejidaren.com/golden-ratio-2.html) <br>[黄金比例在线计算工具](http://www.shejidaren.com/golden-ratio.html)
 >4. [留白原则](http://www.shejidaren.com/white-space-designs.html)
 >* 留白的基本原则是避免使用者一次得阅读所有文字讯息，让阅读容易些。
 >* 区分使用介面上的优先顺序。
