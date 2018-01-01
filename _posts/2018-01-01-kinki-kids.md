@@ -15,5 +15,7 @@ description: 文章金句。
 
 喜欢相声团，暖暖的羁绊让人感到安心、舒心。（大概是因为纯粹的情感？）
 
+关西团真的好欢乐~！
+
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/crowds.jpg?raw=true)
