@@ -2,14 +2,14 @@
 title: "玄木之森" # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "2018 我们一起加油"  # 一句话描述你的博客
+description: "2018 我们一起加油" # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "https://feiyuii.github.io/" # 此处填写你的博客地址 
 
 # About/contact
 owner: 
   name: "玄木之森" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
+  email: "2669758086@qq.com" # 填写作者信息：邮箱
   bio: "    " # 填写作者信息：博客描述
 
 # Data
