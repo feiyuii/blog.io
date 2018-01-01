@@ -9,11 +9,11 @@ description: 文章金句。
 
 >1. [【KinKi Kids】调太高！不想唱！](https://www.bilibili.com/video/av10686370/)
 
-喜欢相声，就好像荒诞无稽化解尴尬，豁达撕裂绝望。
+荒诞无稽化解尴尬，豁达抚平绝望。
 
 谎言的谎言就是真实。
 
-
+喜欢相声团，暖暖的羁绊让人感到安心、舒心。（大概是因为纯粹的情感？）
 
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/crowds.jpg?raw=true)
