@@ -37,4 +37,4 @@ description: 文章金句。
 >1. [ilxdh](http://ilxdh.com/)
 
 
->1.[研习设 yanxishe2017](http://mp.weixin.qq.com/)
+>1.[研习设 yanxishe2017](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%A0%94%E4%B9%A0%E8%AE%BE&ie=utf8&_sug_=n&_sug_type_=)
