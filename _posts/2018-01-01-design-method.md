@@ -31,6 +31,6 @@ description: 文章金句。
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/crowds.jpg?raw=true)
 
 >1. [freepik](https://www.freepik.com/)
->1. [365psd(https://cn.365psd.com/)
+>1. [365psd](https://cn.365psd.com/)
 >1. [uisdc](http://hao.uisdc.com/)
 >1. [ilxdh](http://ilxdh.com/)
