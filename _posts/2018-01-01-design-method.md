@@ -38,7 +38,7 @@ description: 文章金句。
 >1. [ilxdh](http://ilxdh.com/)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/hz.jpg?raw=true)
->1.[研习设 yanxishe2017](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%A0%94%E4%B9%A0%E8%AE%BE&ie=utf8&_sug_=n&_sug_type_=) [2017年研习设内容总结 ](http://mp.weixin.qq.com/s?src=11&timestamp=1514817019&ver=610&signature=Rws5HMrY926EzlI1N0qATsaum2eIpmD5XbHqNqpjfu3DhCb-oRtFEZP85plVY55OABvVwTUn6kY-BFgKaG9aJxCvABid0IASyHH2FMuHRVtWoyqE9SDlty5NdvP0rRL9&new=1)
+>1. [研习设 yanxishe2017](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%A0%94%E4%B9%A0%E8%AE%BE&ie=utf8&_sug_=n&_sug_type_=)<br> [2017年研习设内容总结 ](http://mp.weixin.qq.com/s?src=11&timestamp=1514817019&ver=610&signature=Rws5HMrY926EzlI1N0qATsaum2eIpmD5XbHqNqpjfu3DhCb-oRtFEZP85plVY55OABvVwTUn6kY-BFgKaG9aJxCvABid0IASyHH2FMuHRVtWoyqE9SDlty5NdvP0rRL9&new=1)
 >1. [版式设计入门基础教程](http://www.zcool.com.cn/collection/ZNjMwMDQyOA==)
 >1. [3招搞定电商banner排版](http://www.zcool.com.cn/article/ZNDA3NTc2.html)
 >1. [Banner设计好不好？看这5点就够了](http://www.shejidaren.com/banner-she-ji-de-hao-huai.html)
