@@ -7,7 +7,9 @@ tags: [视频]
 description: 文章金句。
 ---
 
+>1. [AK两团那些共同的萌点 上](https://www.bilibili.com/video/av16548844/)
 >1. [【KinKi Kids】调太高！不想唱！](https://www.bilibili.com/video/av10686370/)
+>1. [Happy 29 !--光一（又称逗比大爷合集）](https://www.bilibili.com/video/av2084616/)
 
 荒诞无稽化解尴尬，豁达抚平绝望。
 
