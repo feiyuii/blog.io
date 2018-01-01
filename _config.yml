@@ -10,7 +10,7 @@ url: "https://feiyuii.github.io/" # 此处填写你的博客地址
 owner: 
   name: "玄木之森" # 填写作者信息：名字
   email: " " # 填写作者信息：邮箱
-  bio: "2018，我们一起加油！" # 填写作者信息：博客描述
+  bio: "" # 填写作者信息：博客描述
 
 # Data
 gavatar: "img/favicon.ico" # 浏览器地址栏小图标，可自定义更改
