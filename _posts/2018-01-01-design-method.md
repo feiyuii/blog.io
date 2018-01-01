@@ -9,6 +9,7 @@ description: 文章金句。
 
 >1. [txt18则](http://www.shejidaren.com/examples/tools/design-rules/18-rules-for-using-text.html)
 >1. [typography](http://images.shejidaren.com/wp-content/uploads/2014/06/typography-b.png)
+>1. [文字编排的易读性](http://www.shejidaren.com/%E6%8E%92%E7%89%88%E6%8A%80%E5%B7%A7%EF%BC%9A%E6%96%87%E5%AD%97%E7%BC%96%E6%8E%92%E7%9A%84%E6%98%93%E8%AF%BB%E6%80%A7.html)
 >1. [GUI视觉规范](http://huaban.com/pins/545169450/zoom)
 >1. [Hierarchy原则](http://www.shejidaren.com/hierarchy-principle.html)
 
