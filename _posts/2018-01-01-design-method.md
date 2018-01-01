@@ -12,8 +12,9 @@ description: 文章金句。
 >1. [COLOR](http://images.shejidaren.com/wp-content/uploads/2014/06/peise-b.png)
 >1. [LOGO](http://images.shejidaren.com/wp-content/uploads/2014/09/10-commandments-of-logo-design_cn.jpg)
 >1. [GUI视觉规范](http://huaban.com/pins/545169450/zoom)
->1. [黄金比例](http://www.shejidaren.com/golden-ratio-2.html)
 >1. [Hierarchy原则](http://www.shejidaren.com/hierarchy-principle.html)
+>1. [黄金比例](http://www.shejidaren.com/golden-ratio-2.html)
+
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/crowds.jpg?raw=true)
 
