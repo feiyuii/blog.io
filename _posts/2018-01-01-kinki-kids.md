@@ -9,6 +9,8 @@ description: 文章金句。
 关西团真的好欢乐~！
 >1. [AK两团那些共同的萌点 上](https://www.bilibili.com/video/av16548844/)
 >1. [【KinKi Kids】调太高！不想唱！](https://www.bilibili.com/video/av10686370/)
+>1. [细数被两位爷毁掉的那些歌](https://www.bilibili.com/video/av2200434/?t=2129)
+>1. [【堂本兄弟经典粉红名场面大盘点](https://www.bilibili.com/video/av2460494/)
 >1. [Happy 29 !--光一（又称逗比大爷合集）](https://www.bilibili.com/video/av2084616/)
 
 
