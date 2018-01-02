@@ -5,12 +5,6 @@ description: "     "
 header-img: "img/green.jpg"
 ---
 
-
-<div id="aplayer4" class="aplayer"></div>
-<script src="/dist/APlayer.min.js"></script>
-<script src="/demo/demo.js"></script>
-
-
 上拜天地 下跪父母。
 
 但行好事 莫问前程。
