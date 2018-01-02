@@ -5,6 +5,10 @@
         "grunt-contrib-watch": "~0.6.1",
         "grunt-banner": "~0.2.3",
         "grunt-contrib-uglify": "~0.5.1"
+        "dplayer": "^1.6.0",
+        "hexo-log": "^0.2.0",
+        "hexo-fs": "^0.2.2",
+        "hexo-util": "^0.6.2"
   }
 }
 
