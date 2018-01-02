@@ -7,6 +7,7 @@ header-img: "img/green.jpg"
 
 <div id="aplayer4" class="aplayer"></div>
 <script src="https://cdn.bootcss.com/aplayer/1.6.0/APlayer.min.js"></script>
+<link rel="stylesheet" href="APlayer.min.css">
 <script src="demo.js"></script>
 
 
