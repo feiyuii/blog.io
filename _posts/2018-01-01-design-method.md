@@ -35,8 +35,16 @@ description: 文章金句。
 
 >1. [freepik](https://www.freepik.com/)
 >1. [365psd](https://cn.365psd.com/)
+>1. [ui001](http://so.ui001.com/)
+>1. [sccnn](http://www.sccnn.com/)
+>1. [yuantu8](http://www.yuantu8.com/)
+>1. [userinterface](http://www.userinterface.com.cn/)
+>1. [xueui](http://hao.xueui.cn/)
 >1. [uisdc](http://hao.uisdc.com/)
 >1. [ilxdh](http://ilxdh.com/)
+>1. [transparenttextures](https://www.transparenttextures.com/)
+>1. [toptal](https://www.toptal.com/designers/subtlepatterns/page/3/)
+
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/hz.jpg?raw=true)
 >1. [研习设 yanxishe2017](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%A0%94%E4%B9%A0%E8%AE%BE&ie=utf8&_sug_=n&_sug_type_=)<br> [2017年研习设内容总结 ](http://mp.weixin.qq.com/s?src=11&timestamp=1514817019&ver=610&signature=Rws5HMrY926EzlI1N0qATsaum2eIpmD5XbHqNqpjfu3DhCb-oRtFEZP85plVY55OABvVwTUn6kY-BFgKaG9aJxCvABid0IASyHH2FMuHRVtWoyqE9SDlty5NdvP0rRL9&new=1)
