@@ -6,8 +6,10 @@ header-img: "img/green.jpg"
 ---
 
 <div id="aplayer4" class="aplayer"></div>
-<script src="dist/APlayer.min.js"></script>
+<script src="https://cdn.bootcss.com/aplayer/1.6.0/APlayer.min.js"></script>
 <script src="demo.js"></script>
+
+
 
 上拜天地 下跪父母。
 
