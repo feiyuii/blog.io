@@ -1,7 +1,7 @@
-var ap2 = new APlayer({
-    element: document.getElementById('player2'),
-    narrow: true,
-    autoplay: false,
+var ap = new APlayer({
+    element: document.getElementById('player'),
+    narrow: false,
+    autoplay: true,
     showlrc: false,
     mutex: true,
     theme: '#e6d0b2',
@@ -13,3 +13,4 @@ var ap2 = new APlayer({
         pic: 'http://devtest.qiniudn.com/Preparation.jpg'
     }
 });
+ap.init();   
