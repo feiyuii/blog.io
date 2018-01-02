@@ -5,11 +5,11 @@ description: "     "
 header-img: "img/green.jpg"
 ---
 
-<body>
+
     <div id="aplayer4" class="aplayer"></div>
     <script src="../dist/APlayer.min.js"></script>
     <script src="demo.js"></script>
-</body>
+    </div>
 
 上拜天地 下跪父母。
 
