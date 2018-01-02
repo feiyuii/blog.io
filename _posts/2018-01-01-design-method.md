@@ -13,7 +13,7 @@ description: 文章金句。
 >1. [GUI视觉规范](http://huaban.com/pins/545169450/zoom)
 >1. [Hierarchy原则](http://www.shejidaren.com/hierarchy-principle.html)
 
-![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/line.png?raw=true)
+![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/ee.png?raw=true)
 
 >1. [LOGO](http://images.shejidaren.com/wp-content/uploads/2014/09/10-commandments-of-logo-design_cn.jpg)
 >2. [COLOR](http://images.shejidaren.com/wp-content/uploads/2014/06/peise-b.png)
