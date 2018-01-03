@@ -15,8 +15,8 @@ description: 文章金句。
 
 
 
-<p><iframe id="b" class="b video_pc" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434" frameborder="0" width="544" height="415" allowfullscreen="true"></iframe></p>
-
+<center><p><iframe id="b" class="b video_pc" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434" frameborder="0" width="800" height="610" allowfullscreen="true"></iframe></p>
+</center>
 
 
 荒诞睥睨尴尬，豁达斩断绝望。
