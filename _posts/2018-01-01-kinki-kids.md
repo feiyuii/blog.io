@@ -4,7 +4,7 @@ title: 两人的相声团
 date: 2018-01-01
 categories: blog
 tags: [闲扯]
-description: 文章金句。
+description: 关西团，相声团kinki kids。
 ---
 关西团真的好欢乐~！
 >1. [AK两团那些共同的萌点 上](https://www.bilibili.com/video/av16548844/)
