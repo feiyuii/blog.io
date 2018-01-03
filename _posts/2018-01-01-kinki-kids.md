@@ -3,7 +3,7 @@ layout: post
 title: 两人的相声团 
 date: 2018-01-01
 categories: blog
-tags: [视频]
+tags: [闲扯]
 description: 文章金句。
 ---
 关西团真的好欢乐~！
