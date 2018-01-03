@@ -14,7 +14,7 @@ description: 文章金句。
 >1. [Happy 29 !--光一（又称逗比大爷合集）](https://www.bilibili.com/video/av2084616/)
 
 
-<iframe id="b" class="b video_pc" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434" frameborder="0" width=550 height=650 allowfullscreen="true"></iframe>
+<iframe id="b" class="b video_pc" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434" frameborder="0" allowfullscreen="true"></iframe>
 
 
 荒诞睥睨尴尬，豁达斩断绝望。
