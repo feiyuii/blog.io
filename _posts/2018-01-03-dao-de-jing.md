@@ -15,6 +15,6 @@ description: 文章金句。
 
 ### 德经
 
-<center><p><video controls="controls" width="750" height="400" src="http://58.51.194.150/wgdcdn.inter.qiyi.com/videos/v1/20140531/fe/c2/a7/2e9268c8d1e444917fd06ded58ce5630.mp4?key=0070e573f90a4b91970f7f8eb853735f&dis_k=689d6671d9d14633fc9c9ec94f06172c&dis_t=1514953582&src=iqiyi.com&uuid=a794c63-5a4c5b6e-be&m=v&qd_ip=7bcfe5eb&qd_p=7bcfe5eb&qd_k=0002c833da3887dbdc01b108dc76a241&qd_src=02020031010000000000&ssl=&ip=123.207.229.235&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1514953582106&wshc_tag=0&wsts_tag=5a4c5b73&wsid_tag=7724d71d&wsiphost=ipdbm
+<center><p><video controls="controls" width="750" height="400" src="https://vd1.bdstatic.com/mda-hd1atg5r08d3b07e/sc/mda-hd1atg5r08d3b07e.mp4?playlist%3D%5B%22hd%22%2C%22sc%22%5D&amp;auth_key=1514985303-0-0-db8bf852db5f580f7400540ec5f0f753&amp;bcevod_channel=searchbox_feed&amp;pd=wisenatural&amp;abtest=all
 "></video></p>
 </center>
