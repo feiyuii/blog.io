@@ -10,9 +10,10 @@ description: 文章金句。
 "></video>
 
 
+<center>
 
+<video controls=" controls"src="http://121.10.113.42/videos/v1/20140531/fe/c2/a7/2e9268c8d1e444917fd06ded58ce5630.mp4?key=0804ac2ac873671dea765391aecf1458d&dis_k=2254abd79fede53b3d59d14d7d068ff49&dis_t=1514950321&dis_dz=CT-GuangDong_GuangZhou&dis_st=40&src=iqiyi.com&uuid=a7957a5-5a4c4eb1-be&m=v&qd_ip=771d770c&qd_p=771d770c&qd_k=f60e776b09db0b171ae067fe84ae293a&qd_src=02020031010000000000&ssl=&ip=119.29.119.12&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1514950321362
+"></video>
 
-<video controls=" controls"src="http://121.10.113.42/videos/v1/20140531/fe/c2/a7/2e9268c8d1e444917fd06ded58ce5630.mp4?key=0804ac2ac873671dea765391aecf1458d&dis_k=2254abd79fede53b3d59d14d7d068ff49&dis_t=1514950321&dis_dz=CT-GuangDong_GuangZhou&dis_st=40&src=iqiyi.com&uuid=a7957a5-5a4c4eb1-be&m=v&qd_ip=771d770c&qd_p=771d770c&qd_k=f60e776b09db0b171ae067fe84ae293a&qd_src=02020031010000000000&ssl=&ip=119.29.119.12&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1514950321362" align="center"></video>
-
-
+</center>
 
