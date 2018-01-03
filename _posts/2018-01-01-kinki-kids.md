@@ -14,6 +14,11 @@ description: 文章金句。
 >1. [Happy 29 !--光一（又称逗比大爷合集）](https://www.bilibili.com/video/av2084616/)
 
 
+</center><p><video controls="controls" src="static.hdslb.com/miniloader.swf?aid=2200434&page=1
+"></video></p>
+</center>
+
+
 荒诞睥睨尴尬，豁达斩断绝望。
 
 谎言的谎言就是真实。
