@@ -15,7 +15,7 @@ description: 文章金句。
 
 
 
-<p><iframe id="b" class="b video_pc" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434" frameborder="no" border="0" marginwidth="0" marginheight="0" width=544 height=415 allowfullscreen="true"></iframe></p>
+<p><iframe id="b" class="b video_pc" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434" frameborder="0" width=544 height=415 allowfullscreen="true"></iframe></p>
 
 
 
