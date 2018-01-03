@@ -14,7 +14,7 @@ description: 文章金句。
 >1. [Happy 29 !--光一（又称逗比大爷合集）](https://www.bilibili.com/video/av2084616/)
 
 
-</center><p><video controls="controls" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434
+<center><p><video controls="controls" src="https://static.hdslb.com/miniloader.swf?cid=3416782&aid=2200434
 "></video></p>
 </center>
 
