@@ -3,7 +3,7 @@ layout: post
 title: 设计尺寸规格 
 date: 2018-01-01
 categories: blog
-tags: [设计,规格]
+tags: [设计]
 description: 文章金句。
 ---
 
