@@ -17,6 +17,6 @@ description: 文章金句。
 ### 德经
 
 
-<center><p><video controls="controls" width="750" height="400" src="https://vd1.bdstatic.com/mda-hd1atg5r08d3b07e/sc/mda-hd1atg5r08d3b07e.mp4
+<center><p><video controls="controls" width="750" height="400" src="http://172.16.24.176/175.6.235.77/videos/v1/20140531/fe/c2/a7/2e9268c8d1e444917fd06ded58ce5630.mp4?key=0a970287f356208de1d9788efae1ac0d3&dis_k=2a0e4e9550fe73ef133f0b51a917f684c&dis_t=1514985097&dis_dz=CT-GuangDong_GuangZhou&dis_st=40&src=iqiyi.com&uuid=add4a81-5a4cd689-bc&m=v&qd_ip=771d770c&qd_p=771d770c&qd_k=2ec20b99d1d7f4c1b8a61357e36f9769&qd_src=02020031010000000000&ssl=&ip=119.29.119.12&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1514985097373
 "></video></p>
 </center> 
