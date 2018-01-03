@@ -8,6 +8,7 @@ description: 文章金句。
 ---
 ### 道经
 
+
 <center><p><video controls="controls" width="750" height="400" src="http://pgccdn.v.baidu.com/1619351278_2680263457_20170107144954.mp4?authorization=bce-auth-v1%2Fc308a72e7b874edd9115e4614e1d62f6%2F2017-01-07T06%3A53%3A13Z%2F-1%2F%2Fb9e070e3bf19fd6e1cff6337ca11f80eae3fe9fc8621a1c575890c2c88a104b0&responseCacheControl=max-age%3D8640000&responseExpires=Mon%2C+17+Apr+2017+14%3A53%3A13+GMT&xcode=6169d853922d48b021a8ec076b17f1eb7cd19e1d6273e60d&time=1515036032
 "></video></p>
 </center>
@@ -15,6 +16,7 @@ description: 文章金句。
 
 ### 德经
 
+
 <center><p><video controls="controls" width="750" height="400" src="https://vd1.bdstatic.com/mda-hd1atg5r08d3b07e/sc/mda-hd1atg5r08d3b07e.mp4?playlist%3D%5B%22hd%22%2C%22sc%22%5D&amp;auth_key=1514985303-0-0-db8bf852db5f580f7400540ec5f0f753&amp;bcevod_channel=searchbox_feed&amp;pd=wisenatural&amp;abtest=all
 "></video></p>
-</center>
+</center> 
