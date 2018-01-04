@@ -9,7 +9,7 @@ description: 道德经 帛书甲本 白云出岫。
 ### 道经
 
 
-<center><p><video controls="controls" width="750" height="400" src="http://pgccdn.v.baidu.com/1619351278_2680263457_20170107144954.mp4?authorization=bce-auth-v1%2Fc308a72e7b874edd9115e4614e1d62f6%2F2017-01-07T06%3A53%3A13Z%2F-1%2F%2Fb9e070e3bf19fd6e1cff6337ca11f80eae3fe9fc8621a1c575890c2c88a104b0&responseCacheControl=max-age%3D8640000&responseExpires=Mon%2C+17+Apr+2017+14%3A53%3A13+GMT&xcode=6169d853922d48b021a8ec076b17f1eb7cd19e1d6273e60d&time=1515036032
+<center><p><video controls="controls" width="750" height="400" src="http://58.51.194.150/wgdcdn.inter.qiyi.com/videos/v1/20140531/5f/55/bd/8868b07b27706037a90a64e556658933.mp4?key=01591234c591182e852fb82ff10547a93&dis_k=42d33e2d38592b8435f9cddc94c5a657&dis_t=1515038627&src=iqiyi.com&uuid=add4a81-5a4da7a3-b8&m=v&qd_ip=7bcfe5eb&qd_p=7bcfe5eb&qd_k=f1ac86a67c3ff8c4538cfa0186c8a6b8&qd_src=02020031010000000000&ssl=&ip=123.207.229.235&qd_vip=0&dis_src=vrs&qd_uid=0&qdv=1&qd_tm=1515038627441&wshc_tag=0&wsts_tag=5a4da7a5&wsid_tag=7724d71d&wsiphost=ipdbm
 "></video></p>
 </center>
 
