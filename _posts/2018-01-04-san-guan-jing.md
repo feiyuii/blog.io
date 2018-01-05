@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《三官经》
-date: 2018-01-04
+date: 2018-01-05
 categories: blog
 tags: [玄门]
 description: 文章金句。
@@ -18,3 +18,4 @@ description: 文章金句。
 [《三官经》](http://www.360doc.com/content/15/0907/17/8874353_497505224.shtml)
 [道教的八大神咒有何用！](http://www.sohu.com/a/134317028_362743)
 [八大神咒之金光神咒](https://tieba.baidu.com/p/3625652898?red_tag=3422214116)
+[开天眼](http://blog.sina.com.cn/s/blog_892f508d0102w32b.html)
