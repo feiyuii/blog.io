@@ -3,7 +3,7 @@ layout: post
 title: 道德经 帛书甲本 白云出岫
 date: 2018-01-03
 categories: blog
-tags: [闲扯]
+tags: [玄门]
 description: 道德经 帛书甲本 白云出岫。
 ---
 ### 道经
