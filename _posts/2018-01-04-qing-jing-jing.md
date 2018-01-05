@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 玄门早课《太上老君说常清静经》
-date: 2018-01-04
+date: 2018-01-05
 categories: blog
 tags: [玄门]
 description: 文章金句。
