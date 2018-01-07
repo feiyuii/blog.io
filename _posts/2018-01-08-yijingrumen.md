@@ -11,3 +11,9 @@ description: 文章金句。
 - [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
 - [易经的奥秘 曾仕强](http://book.sbkk8.com/gudai/yijingshuji/yijingdeaomi/)
 - [梅花易数在线阅读，梅花易数全文_邵雍](http://book.sbkk8.com/gudai/yijingshuji/meihuayishu/)
+
+
+![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/houtianbagua.jpg?raw=true)
+
+
+![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
