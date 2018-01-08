@@ -23,15 +23,15 @@ description: 文章金句。
 
 <p>
 
-<p>
-- [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)<br>
-- [易经的奥秘 曾仕强](http://book.sbkk8.com/gudai/yijingshuji/yijingdeaomi/)<br>
-- [梅花易数在线阅读，梅花易数全文_邵雍](http://book.sbkk8.com/gudai/yijingshuji/meihuayishu/)<br>
+</p>
+- [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
+- [易经的奥秘 曾仕强](http://book.sbkk8.com/gudai/yijingshuji/yijingdeaomi/)
+- [梅花易数在线阅读，梅花易数全文_邵雍](http://book.sbkk8.com/gudai/yijingshuji/meihuayishu/)
 
   
-- [周易尚氏学](http://yuedu.163.com/source/5deab14e510b48d588ee7adb214d0984_4)<br>
-- [御纂周易折中](http://yuedu.163.com/source/68ef95c46f4d4961a0634f7353f2b545_4)<br>
-- [《周易正宗》[马恒君]](https://zhidao.baidu.com/share/19aa889aa5d5ed27824fc484bfa9ff8c.html)<br>
+- [周易尚氏学](http://yuedu.163.com/source/5deab14e510b48d588ee7adb214d0984_4)
+- [御纂周易折中](http://yuedu.163.com/source/68ef95c46f4d4961a0634f7353f2b545_4)
+- [《周易正宗》[马恒君](https://zhidao.baidu.com/share/19aa889aa5d5ed27824fc484bfa9ff8c.html)
 
 
 
