@@ -8,16 +8,23 @@ description: 文章金句。
 ---
 
 ## [《周易》读解](https://www.bilibili.com/video/av8525577/index_11.html#page=1)
-## [中国数术学基础入门](https://www.bilibili.com/video/av15187264/)<br>
+## [中国数术学基础入门](https://www.bilibili.com/video/av15187264/)<p>
+  
+  
 - [易经六爻占卜术](https://www.bilibili.com/video/av11213909/)<br>
 - [大六壬入门初级视频-基础篇](https://www.bilibili.com/video/av14732315/)<br>
-- [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)<br>
+- [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)
+
+
 ## [傅佩荣详解易经64卦](https://www.bilibili.com/video/av3569370/)
 
 
 
 >- [如何读懂《周易》？](https://www.zhihu.com/question/20428195?sort=created)
 >- [怎样自学易经？](https://www.zhihu.com/question/19622720)
+<p>
+
+
 - [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
 - [易经的奥秘 曾仕强](http://book.sbkk8.com/gudai/yijingshuji/yijingdeaomi/)
 - [梅花易数在线阅读，梅花易数全文_邵雍](http://book.sbkk8.com/gudai/yijingshuji/meihuayishu/)
