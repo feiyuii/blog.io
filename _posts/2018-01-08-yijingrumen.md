@@ -31,7 +31,7 @@ description: 文章金句。
   
 - [周易尚氏学](http://yuedu.163.com/source/5deab14e510b48d588ee7adb214d0984_4)
 - [御纂周易折中](http://yuedu.163.com/source/68ef95c46f4d4961a0634f7353f2b545_4)
-- [《周易正宗》](https://zhidao.baidu.com/share/19aa889aa5d5ed27824fc484bfa9ff8c.html)
+- [《周易正宗》马恒君](https://zhidao.baidu.com/share/19aa889aa5d5ed27824fc484bfa9ff8c.html)
 
 
 
