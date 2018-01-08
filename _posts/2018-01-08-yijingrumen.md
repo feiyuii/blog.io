@@ -42,8 +42,7 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
 
-![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg)
+![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
-<center>
-  ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg)
+<center>![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true)
 </center>
