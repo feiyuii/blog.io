@@ -49,12 +49,14 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
+## [按上下卦组合查](http://baike.fututa.com/zhouyi64gua/)
+<center>
+<p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
+</center>
+
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
 
 
-## [按上下卦组合查](http://baike.fututa.com/zhouyi64gua/)
-<center>
-<p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
-</center>
+
