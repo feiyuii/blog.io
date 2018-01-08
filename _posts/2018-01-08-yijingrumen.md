@@ -45,4 +45,4 @@ description: 文章金句。
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
 <center>
-  ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true)</center>
+  <p>![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true)</p></center>
