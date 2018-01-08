@@ -37,12 +37,21 @@ description: 文章金句。
 
 ## [塔罗入门视频教程](https://space.bilibili.com/2847721#/channel/detail?cid=6596)
 
+- [卦名及卦象](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/houtianbagua.jpg?raw=true)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
 
 
 ## [按上下卦组合查](http://baike.fututa.com/zhouyi64gua/)
