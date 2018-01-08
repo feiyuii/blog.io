@@ -44,5 +44,6 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg)
 
-<center>![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg)
+<center>
+  ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg)
 </center>
