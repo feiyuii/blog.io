@@ -38,6 +38,7 @@ description: 文章金句。
 ## [塔罗入门视频教程](https://space.bilibili.com/2847721#/channel/detail?cid=6596)
 
 - [卦名及卦象](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)
+- [zidian](https://zidian.911cha.com/zi795e.html)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
 
