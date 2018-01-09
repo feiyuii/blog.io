@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 道德经 帛书甲本 白云出岫
+title: 老子 道德经
 date: 2018-01-03
 categories: blog
 tags: [玄门]
