@@ -46,6 +46,8 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/houtianbagua.jpg?raw=true)
 
+![image](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg)
+
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
@@ -57,6 +59,11 @@ description: 文章金句。
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
+
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
+</center>
+
 
 乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
@@ -77,6 +84,9 @@ description: 文章金句。
 <p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
 </center>
 
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
+</center>
 
 
 
