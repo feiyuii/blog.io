@@ -41,9 +41,9 @@ description: 文章金句。
 - 巽。离，坤，兑为阴四宫；    
 - 乾一；兑二；离三；震四；巽五；坎六；艮七；坤八。  
 
-- [上下经卦名次序歌](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)<br> 
- １、乾坤屯蒙需讼师；２、比小畜兮覆泰否；３、同人大有谦豫随； ４、蛊临观兮噬磕贲；５、剥复无妄大畜颐；６、大过坎离三十备；<br>    
- １、咸恒遁兮及大壮；２、晋与明夷家人睽；３、蹇解损益决始萃； ４、升困井革鼎震继；５、艮渐归妹丰旅巽；６、兑涣节兮中孚至； <br>  
+- [上下经卦名次序歌](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)
+ １、乾坤屯蒙需讼师；２、比小畜兮覆泰否；３、同人大有谦豫随； ４、蛊临观兮噬磕贲；５、剥复无妄大畜颐；６、大过坎离三十备；
+ １、咸恒遁兮及大壮；２、晋与明夷家人睽；３、蹇解损益决始萃； ４、升困井革鼎震继；５、艮渐归妹丰旅巽；６、兑涣节兮中孚至；
  ７、小过即济兼未济；８、是为下经三十四； 
 - [按上下卦组合查](http://baike.fututa.com/zhouyi64gua/)
 - [zidian](https://zidian.911cha.com/zi795e.html)
@@ -55,7 +55,7 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
-乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天人有。
+乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
 坎为水，水泽节，水雷屯，水火既济，泽火革，雷火丰，地火明夷，地水师。
 
