@@ -60,8 +60,7 @@ description: 文章金句。
 <p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg" align="center"></p>
 <p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg" align="center"></p>
 <p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"</p>
-
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
 </center>
 
 
