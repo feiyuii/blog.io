@@ -9,9 +9,6 @@ description: 文章金句。
 
 ## [《周易》读解](https://www.bilibili.com/video/av8525577/index_11.html#page=1)
 ## [中国数术学基础入门](https://www.bilibili.com/video/av15187264/)
-  
-  
-- [易经六爻占卜术](https://www.bilibili.com/video/av11213909/)<br>
 - [大六壬入门初级视频-基础篇](https://www.bilibili.com/video/av14732315/)<br>
 - [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)
 
@@ -40,7 +37,6 @@ description: 文章金句。
 - 乾，坎，艮，震为阳四宫；
 - 巽。离，坤，兑为阴四宫；    
 - 乾一；兑二；离三；震四；巽五；坎六；艮七；坤八。  
-
 - [上下经卦名次序歌](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)<br>
  １、乾坤屯蒙需讼师；２、比小畜兮覆泰否；３、同人大有谦豫随； ４、蛊临观兮噬磕贲；５、剥复无妄大畜颐；６、大过坎离三十备；<br>
  １、咸恒遁兮及大壮；２、晋与明夷家人睽；３、蹇解损益决始萃； ４、升困井革鼎震继；５、艮渐归妹丰旅巽；６、兑涣节兮中孚至；７、小过即济兼未济；８、是为下经三十四； 
@@ -53,6 +49,14 @@ description: 文章金句。
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
 
 乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
@@ -72,14 +76,6 @@ description: 文章金句。
 <center>
 <p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
 </center>
-
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
-
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
-
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
-
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
 
 
 
