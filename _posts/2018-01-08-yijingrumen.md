@@ -52,18 +52,19 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
-
 ![image](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg)
 
+<center>
+<p>
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
 
-<center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
+<img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
 </center>
 
 
