@@ -48,7 +48,21 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
+乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天人有。
 
+坎为水，水泽节，水雷屯，水火既济，泽火革，雷火丰，地火明夷，地水师。
+
+艮为山，山火贲．山天大畜，山泽损，火泽睽，天泽履，风泽中孚，风山渐。
+
+震为雷，雷地豫，雷水解，雷风恒，地风升，水风井，泽风大过，泽雷随。
+
+巽为风，风天小畜，风火家人，风雷益，天雷无妄，火雷噬嗑，山雷颐，山风蛊。
+
+离为火，火山旅，火风鼎，火水未济，山水蒙，风水涣，天水讼，天火同人。
+
+坤为地，地雷复，地泽临，地天泰，雷天大壮，泽天夬，水天需，水地比。
+
+兑为泽，泽水困，泽地萃，泽山咸，水山蹇，地山谦，雷山小过，雷泽归妹
 <center>
 <p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
 </center>
