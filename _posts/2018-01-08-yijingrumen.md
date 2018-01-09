@@ -40,10 +40,6 @@ description: 文章金句。
 - [卦名及卦象](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)
 - [zidian](https://zidian.911cha.com/zi795e.html)
 
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
-
-![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
-
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/houtianbagua.jpg?raw=true)
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
@@ -54,6 +50,10 @@ description: 文章金句。
 <center>
 <p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
 </center>
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
+
+![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg)
 
