@@ -56,6 +56,7 @@ description: 文章金句。
 
 <center>
 <p>
+
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
@@ -67,6 +68,9 @@ description: 文章金句。
 <img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
 </center>
 
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
+</center>
 
 乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
@@ -85,10 +89,6 @@ description: 文章金句。
 兑为泽，泽水困，泽地萃，泽山咸，水山蹇，地山谦，雷山小过，雷泽归妹
 <center>
 <p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
-</center>
-
-<center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
 </center>
 
 
