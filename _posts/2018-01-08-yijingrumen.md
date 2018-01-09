@@ -54,6 +54,8 @@ description: 文章金句。
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg)
 
+![image](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg)
+
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg)
 
 ![image](http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg)
