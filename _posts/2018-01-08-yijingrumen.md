@@ -37,7 +37,10 @@ description: 文章金句。
 
 ## [塔罗入门视频教程](https://space.bilibili.com/2847721#/channel/detail?cid=6596)
 
-- [卦名及卦象](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)
+- [上下经卦名次序歌](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/2789.html)<br> 
+ １、乾坤屯蒙需讼师；２、比小畜兮覆泰否；３、同人大有谦豫随； ４、蛊临观兮噬磕贲；５、剥复无妄大畜颐；６、大过坎离三十备；<br>    
+ １、咸恒遁兮及大壮；２、晋与明夷家人睽；３、蹇解损益决始萃； ４、升困井革鼎震继；５、艮渐归妹丰旅巽；６、兑涣节兮中孚至； <br>  
+ ７、小过即济兼未济；８、是为下经三十四； 
 - [按上下卦组合查](http://baike.fututa.com/zhouyi64gua/)
 - [zidian](https://zidian.911cha.com/zi795e.html)
 
