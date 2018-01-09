@@ -55,14 +55,12 @@ description: 文章金句。
 ![image](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg)
 
 <center>
-<p>
-<p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg" align="center"></p>
-<p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg" align="center"></p>
 <p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961OX0-225558.jpg" align="center"></p>
+<p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961PI0-25Ib.jpg" align="center"></p>
+<p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg" align="center"></p>
 <p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg" align="center"></p>
 <p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
-</center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"</p></center>
 
 乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
@@ -79,6 +77,7 @@ description: 文章金句。
 坤为地，地雷复，地泽临，地天泰，雷天大壮，泽天夬，水天需，水地比。
 
 兑为泽，泽水困，泽地萃，泽山咸，水山蹇，地山谦，雷山小过，雷泽归妹
+
 <center>
 <p><img src="https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/nbagong.jpg?raw=true" align="center"></p>
 </center>
