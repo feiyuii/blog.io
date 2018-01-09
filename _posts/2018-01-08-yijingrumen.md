@@ -60,7 +60,10 @@ description: 文章金句。
 <p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961QZ-331550.jpg" align="center"></p>
 <p><img src="http://book.sbkk8.com/uploads/allimg/c150712/143B961NF-164363.jpg" align="center"></p>
 <p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"</p></center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"</p>
+  </center>
+
+
 
 乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
