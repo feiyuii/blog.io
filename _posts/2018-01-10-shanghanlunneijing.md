@@ -13,5 +13,4 @@ description: 文章金句。
 - [《中医诊断学》朱文锋](https://www.bilibili.com/video/av8791208/?from=search&seid=17837577599471993887#page=3)<br>
 [爱爱医](http://signin.iiyi.com/)<br>
 [如何自学中医？](https://www.zhihu.com/question/19796475)<br>
-
-
+- [医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html)
