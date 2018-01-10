@@ -19,7 +19,7 @@ description: 文章金句。
 >- [如何读懂《周易》？](https://www.zhihu.com/question/20428195?sort=created)<br>
 >- [怎样自学易经？](https://www.zhihu.com/question/19622720)<br>
 >- [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
-
+>- [图型解释十二地支的刑、 冲、 会、 合、 害](http://www.360doc.com/content/15/0802/23/8780464_489131294.shtml)
 
   
 - [周易尚氏学](http://yuedu.163.com/source/5deab14e510b48d588ee7adb214d0984_4)
