@@ -3,7 +3,7 @@ layout: post
 title: 伤寒论 内经 
 date: 2018-01-10
 categories: blog
-tags: [玄门]
+tags: [中医]
 description: 文章金句。
 ---
 
