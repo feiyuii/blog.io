@@ -11,7 +11,8 @@ description: 文章金句。
 ## [中国数术学基础入门](https://www.bilibili.com/video/av15187264/)
 - [大六壬入门初级视频-基础篇](https://www.bilibili.com/video/av14732315/)<br>
 - [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)
-
+## [《滴天髓》理气](https://space.bilibili.com/14913263?from=search&seid=12832460799862798786#/)
+- [究竟易经基础班第三讲《五行与天干本义》](http://v.youku.com/v_show/id_XMTgyMjY5ODQxNg==.html?spm=a2hzp.8253869.0.0)
 
 ## [傅佩荣详解易经64卦](https://www.bilibili.com/video/av3569370/)
 
@@ -25,6 +26,10 @@ description: 文章金句。
 - [御纂周易折中](http://yuedu.163.com/source/68ef95c46f4d4961a0634f7353f2b545_4)
 - [《周易正宗》马恒君](https://zhidao.baidu.com/share/19aa889aa5d5ed27824fc484bfa9ff8c.html)
 
+<p>
+
+   </p>
+- [梅花易数](http://book.sbkk8.com/gudai/yijingshuji/meihuayishu/)
 
 
 ## [塔罗入门视频教程](https://space.bilibili.com/2847721#/channel/detail?cid=6596)
