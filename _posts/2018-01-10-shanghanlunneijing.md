@@ -15,7 +15,17 @@ description: 文章金句。
 - [ 倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
 [倪海厦](http://v.qq.com/vplus/96ae598beaee4214f9bb462829b154a5/videos)
 - [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
-- [黄帝素问直解](http://www.tcm100.com/user/hdswzj/index.htm)
+
+<p>
+
+
+  </p>
+
+- [黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm)
+- [素问悬解](http://www.tcm100.com/user/swxuanjie/index.htm)
+- [說文解字](http://www.zdic.net/z/swjz/)
+
+
 <p>
 
 
