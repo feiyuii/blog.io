@@ -1,0 +1,12 @@
+---
+layout: post
+title: 白玉蟾祖師修道真言 参同契
+date: 2018-01-12
+categories: blog
+tags: [中医]
+description: 文章金句。
+---
+
+- [参同契 陈撄宁 讲解 胡海牙 校订 ](http://www.dadaojiayuan.com/cache/cj_info339-49-1.html)
+- [周易参同契 白云出岫](http://www.ximalaya.com/4228109/album/225894/)
+- [白玉蟾祖師修道真言](http://bbs.tianya.cn/post-16-859934-1.shtml)
