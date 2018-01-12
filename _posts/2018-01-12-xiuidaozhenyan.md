@@ -3,7 +3,7 @@ layout: post
 title: 白玉蟾祖師修道真言 参同契
 date: 2018-01-12
 categories: blog
-tags: [中医]
+tags: [玄门]
 description: 文章金句。
 ---
 
