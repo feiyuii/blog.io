@@ -60,7 +60,7 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# generator_amp:
+generator_amp:
   templateDir:  amp-template
   assetDistDir: amp-dist
   logo:
