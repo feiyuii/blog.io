@@ -7,8 +7,46 @@ tags: [中医]
 description: 文章金句。
 ---
 
-<li class="nav1"><a href=" #### 《内经》上有“故血之与气，异名同类焉” ">故血之与气，异名同类焉</a></li>
-<li class="nav2"><a href=" #### 气虚在哪儿邪气就往哪儿跑” ">气虚在哪儿邪气就往哪儿跑</a></li>
+<link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
+
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script type="text/javascript">
+
+ $(document).ready(function(){
+
+ $("h2,h3,h4,h5,h6").each(function(i,item){
+
+ var tag = $(item).get(0).localName;
+
+ $(item).attr("id","wow"+i);
+
+ $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
+
+ $(".newh2").css("margin-left",0);
+
+ $(".newh3").css("margin-left",20);
+
+ $(".newh4").css("margin-left",40);
+
+ $(".newh5").css("margin-left",60);
+
+ $(".newh6").css("margin-left",80);
+
+ });
+
+ });
+
+</script>
+
+<div id="category"></div>
+
+
+
 
 #### 《内经》上有“故血之与气，异名同类焉”
 气包括**气、血、津液和一切形态**<br>
@@ -64,7 +102,6 @@ description: 文章金句。
 这样的阴阳颠倒、气血逆乱导致整个生机旺不起来。
 - 上焦如雾，中焦如沤，下焦如渎<br>
 食饮之气入胃，游溢精气，由脾气把整个的水气向上蒸腾，升清嘛，升清就是向上蒸腾精华的营养物质，通过心脉和肺的输布灌溉于全身<br>
-
 
 #### 气虚在哪儿邪气就往哪儿跑
 集结就是实，实就硬，人就会疼痛。<br>
