@@ -32,6 +32,12 @@ layout: default
 </header>
 
 
+<link rel="stylesheet" href="/css/backtop.css">  <!-- Back Top -->
+<script type="text/javascript" src="/js/backtop.js"></script>  <!-- Back Top -->
+
+<div id="back-top">
+  <a href="#top" title="回到顶部"></a>
+</div>
 
 
 <!-- Post Content -->
@@ -57,16 +63,13 @@ layout: default
                     {% endif %}
                 </ul>
 
-                
-
-
-
+     
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>
     async("http://cdn.bootcss.com/anchor-js/1.1.1/anchor.min.js",function(){
         anchors.options = {
           visible: 'always',
-          placement: 'right',
+          placement: 'center',
           icon: ''
         };
         anchors.add().remove('.intro-header h1').remove('.subheading');
