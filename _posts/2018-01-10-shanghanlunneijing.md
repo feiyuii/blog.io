@@ -10,8 +10,7 @@ description: 文章金句。
 - [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html)
 - [《国学堂》 梁冬对话徐文兵： 《黄帝内经之上古天真论》](https://www.bilibili.com/video/av6209897/?from=search&seid=1611147863375217739)
 - [ 126 黄帝内经网重新发现中医太美mp3](https://pan.baidu.com/s/1eS59Dey#list/path=%2F&parentPath=%2F)
-- [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)
-<br>
+- [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)<br>
 [心药医](http://103.40.220.48/youku/69750D407064C7DDA6D41677B/030020010057E0BBB666EC089BF5904959693C-A8DB-FD5F-747A-5BD569801647.mp4?sid=051598521100712f2af05&ctype=12&ccode=0508&duration=7560&expire=18000&psid=d3b5de8091fcdb618906091a9b3868da&ups_client_netip=7bcfe5eb&ups_ts=1515985210&ups_userid=&utid=OgfjEn5PVhgCAXvP5etUECfB&vkey=Aa329bed1d00a104230b21215f33b28f1&vid=XMTczMTQ2ODkzNg%3D%3D)<br>
 [中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
 [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
