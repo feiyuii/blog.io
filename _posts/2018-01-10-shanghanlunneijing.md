@@ -11,6 +11,7 @@ description: 文章金句。
 - [《国学堂》 梁冬对话徐文兵： 《黄帝内经之上古天真论》](https://www.bilibili.com/video/av6209897/?from=search&seid=1611147863375217739)
 - [ 126 黄帝内经网重新发现中医太美mp3](https://pan.baidu.com/s/1eS59Dey#list/path=%2F&parentPath=%2F)
 - [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)
+[心药医](http://103.40.220.48/youku/69750D407064C7DDA6D41677B/030020010057E0BBB666EC089BF5904959693C-A8DB-FD5F-747A-5BD569801647.mp4?sid=051598521100712f2af05&ctype=12&ccode=0508&duration=7560&expire=18000&psid=d3b5de8091fcdb618906091a9b3868da&ups_client_netip=7bcfe5eb&ups_ts=1515985210&ups_userid=&utid=OgfjEn5PVhgCAXvP5etUECfB&vkey=Aa329bed1d00a104230b21215f33b28f1&vid=XMTczMTQ2ODkzNg%3D%3D)
 - [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
 - [ 倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
 - [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
