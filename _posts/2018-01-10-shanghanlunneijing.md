@@ -15,6 +15,8 @@ description: 文章金句。
 [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
 - [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
 - [ 倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
+- [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
+- [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
 - [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
 
 <p>
@@ -23,7 +25,7 @@ description: 文章金句。
   </p>
 
 - [黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm)
-- [素问悬解](http://www.tcm100.com/user/swxuanjie/index.htm)
+- [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)
 - [說文解字](http://www.zdic.net/z/swjz/)
 
 
