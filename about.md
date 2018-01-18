@@ -53,10 +53,6 @@ header-img: "img/green.jpg"
 <div style="text-align: center; margin-top: 10px; ">
 <div style="margin-top: 10px;margin-left: 7%;text-align: left;">
 
-<br>
-
-<br>
-<br>
   <span style="font-weight:bold;"> 如果方便, 也可以捐助支持一下我。谢谢 ~</span>
 
 </div>
