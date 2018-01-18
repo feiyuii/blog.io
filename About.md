@@ -21,6 +21,22 @@ header-img: "img/Xacebook.jpg"
 
 ----
 
+
+
+<a href="http://u16238391.ctcontents.com/drfiles/16238391/233922516/《大千老师讲中医基础》2013年6月23日校订版.pdf" target="_blank">《大千老师讲中医基础》2013年6月23日校订版.pdf</a><br/>
+<a href="http://u16238391.ctcontents.com/drfiles/16238391/233902493/《诊家枢要》.pdf" target="_blank">《诊家枢要》.pdf</a><br/>
+<a href="http://u16238391.ctcontents.com/drfiles/16238391/233902688/临证辨象 李玉宾.pdf" target="_blank">临证辨象 李玉宾.pdf</a><br/>
+<a href="http://u16238391.ctcontents.com/drfiles/16238391/233902973/周易尚氏学.pdf" target="_blank">周易尚氏学.pdf</a><br/>
+<a href="http://u16238391.ctcontents.com/drfiles/16238391/233903022/周易尚氏学·尚秉和撰·.pdf" target="_blank">周易尚氏学·尚秉和撰·.pdf</a><br/>
+
+
+
+----
+
+
+
+
+
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
 <img src="http://wx2.sinaimg.cn/mw690/005IPc5ngy1fnkqs7i0t9j307t07vt9w.jpg" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;" />
 <div style="margin-top: 10px; text-align: center;">支付宝扫码</div>
