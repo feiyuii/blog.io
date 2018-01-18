@@ -3,7 +3,7 @@ layout: post
 title: markdown语法 
 date: 2018-01-01
 categories: blog
-tags: [MD]
+tags: [工具]
 description: 文章金句。
 ---
 
