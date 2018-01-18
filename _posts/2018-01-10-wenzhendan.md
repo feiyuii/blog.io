@@ -8,7 +8,7 @@ description: 文章金句。
 ---
 
 <center>
-<p>问诊单</p>
+<p>[问诊单](http://cn.mikecrm.com/rO9NZw1)</p>
 </center>
 
 
