@@ -318,7 +318,7 @@ description: 文章金句。
 - “雨出地气，云出天气”，明确了阴阳相交所指的原因，雨是从地气的水蒸气蒸腾向上而下来成为雨，云虽然在天上也是地气上蒸与天气交会而成，有云雨则万物始作，没有云雨则万物方歇，也就是云雨对于整个大自然生物圈的重要性体现出来了。
 
 
-![image](http://s1.sinaimg.cn/orignal/005IPc5nzy7hqCOahRC50&690)
+![image](http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnkox3d55xj30gp08njrz.jpg)
 
 
 
