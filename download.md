@@ -2,7 +2,7 @@
 layout: page
 title: "DOWNLOAD"
 description: " "
-header-img: "img/zhihu.jpg"
+header-img: "img/Red-Brown.jpg"
 ---
 <a href="http://u16238391.ctcontents.com/drfiles/16238391/233922516/《大千老师讲中医基础》2013年6月23日校订版.pdf" target="_blank">《大千老师讲中医基础》2013年6月23日校订版.pdf</a><br/>
 <a href="http://u16238391.ctcontents.com/drfiles/16238391/233902493/《诊家枢要》.pdf" target="_blank">《诊家枢要》.pdf</a><br/>
