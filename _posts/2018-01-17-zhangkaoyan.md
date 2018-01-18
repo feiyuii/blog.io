@@ -3,7 +3,7 @@ layout: post
 title: 牛逼老师张雪峰
 date: 2018-01-17
 categories: blog
-tags: [视频]
+tags: [闲扯]
 description: 文章金句。
 ---
 
