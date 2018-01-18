@@ -13,7 +13,7 @@ header-img: "img/green.jpg"
 
 
 
-<div id="donate-text-div" style="display: inline-block; font-size: 15px; vertical-align: top;  width: 40%;">
+<div id="donate-text-div" style="display: inline-block; font-size: 15px; vertical-align: top;  width: 100%;">
 <div style="margin-top: 20px;">
 <span style="font-weight: bolder; font-size: larger;">HELLO,</span>
 <div style="margin-top:20px;">
@@ -22,8 +22,7 @@ header-img: "img/green.jpg"
 </p>
 <p>
 
-<br></br>
-
+<br>
 </p>
 
 </div>
