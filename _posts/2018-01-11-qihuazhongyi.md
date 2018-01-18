@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 气化中医
+title: 气化中医 大千老师讲中医基础
 date: 2018-01-11
 categories: blog
 tags: [中医]
