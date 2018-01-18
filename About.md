@@ -12,7 +12,7 @@ header-img: "img/Xacebook.jpg"
 <h3 id="hello，">hello</h3>
 
 <p>
-喜欢的话欢迎分享给其他的人. 也可以点击猫猫在B站订阅我.
+喜欢的话欢迎分享给其他的人. 也可以点击 ☞黑猫 在B站订阅我.
 </p>
 <p>
 
@@ -22,12 +22,12 @@ header-img: "img/Xacebook.jpg"
 ----
 
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
-<img src="http://s10.sinaimg.cn/orignal/005IPc5nzy7ht5X30ql19&amp;690" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;" />
+<img src="http://wx2.sinaimg.cn/mw690/005IPc5ngy1fnkqs7i0t9j307t07vt9w.jpg" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;" />
 <div style="margin-top: 10px; text-align: center;">支付宝扫码</div>
 </div>
 
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
-<img src="http://s13.sinaimg.cn/orignal/005IPc5nzy7ht5BAy5K3c&amp;690" style="border: 6px solid #778811; border-radius: 20px 20px; width: 185px;" />
+<img src="http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnkqrzhmraj30bx0bxgmb.jpg" style="border: 6px solid #778811; border-radius: 20px 20px; width: 185px;" />
 <div style="margin-top: 10px; text-align: center;">微信扫码</div>
 </div>
 
