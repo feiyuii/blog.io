@@ -12,8 +12,6 @@ header-img: "img/Red-Brown.jpg"
 <a href="http://u16238391.ctcontents.com/drfiles/16238391/233903022/周易尚氏学·尚秉和撰·.pdf" target="_blank">周易尚氏学·尚秉和撰·.pdf</a><br/>
 
 
-[ADRESS](https://home.ctfile.com/#item-files) [PIC](http://blog.sina.com.cn/)[PIC](https://weibo.com/)
-
 
 ----
 
@@ -50,3 +48,9 @@ $(function () {
     $('#tag_cloud a').tagcloud();
 });
 </script>
+
+
+----
+
+
+[ADRESS](https://home.ctfile.com/#item-files) [PIC](http://photo.weibo.com/5243024133/photos)[PIC](https://weibo.com/)
