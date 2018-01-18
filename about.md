@@ -11,8 +11,11 @@ header-img: "green.jpg"
 
 
 <div id="donate-text-div" style="display: inline-block; font-size: 15px; vertical-align: top;  width: 100%;">
+
 <div style="margin-top: 20px;">
+
 <span style="font-weight: bolder; font-size: larger;">HELLO,</span>
+
 <div style="margin-top:20px;">
 <p>
 喜欢的话欢迎分享给其他的人. 也可以点击猫猫在B站订阅我.
@@ -23,7 +26,9 @@ header-img: "green.jpg"
 </p>
 
 </div>
+
 </div>
+
 </div>
 
 
