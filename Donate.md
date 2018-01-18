@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Donate"
+title: "Hello"
 description: "     " 
 header-img: "green.jpg"
 ---
