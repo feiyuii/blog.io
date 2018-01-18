@@ -7,25 +7,14 @@ tags: [中医]
 description: 文章金句。
 ---
 
-<center>
-<p>
- 
+
 [问诊单](http://cn.mikecrm.com/rO9NZw1)
 
 
-</p>
-</center>
+
+![image](http://wx4.sinaimg.cn/mw690/005IPc5ngy1fnksk314wzj304u04u095.jpg)
 
 
-<center>
-<p>
-
-
-![](http://wx4.sinaimg.cn/mw690/005IPc5ngy1fnksk314wzj304u04u095.jpg)
-
-
-</p>
-</center>
 
 
 1、一般状况:<br>
