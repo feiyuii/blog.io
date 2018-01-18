@@ -23,11 +23,11 @@ header-img: "img/Xacebook.jpg"
 [-](https://home.ctfile.com/#item-files) [-](http://photo.weibo.com/5243024133/photos) [-](https://weibo.com/u/5243024133/home?wvr=5)
 
 
-<a href="https://u16238391.ctfile.com/fs/16238391-233922516" target="_blank">《大千老师讲中医基础》2013年6月23日校订版.pdf</a><br/>
-<a href="https://u16238391.ctfile.com/fs/16238391-233902493" target="_blank">《诊家枢要》.pdf</a><br/>
-<a href="https://u16238391.ctfile.com/fs/16238391-233902688" target="_blank">临证辨象 李玉宾.pdf</a><br/>
-<a href="https://u16238391.ctfile.com/fs/16238391-233902973" target="_blank">周易尚氏学.pdf</a><br/>
-<a href="https://u16238391.ctfile.com/fs/16238391-233903022" target="_blank">周易尚氏学·尚秉和撰·.pdf</a><br/>
+<a href="https://u16238391.pipipan.com/fs/16238391-233922516" target="_blank">《大千老师讲中医基础》2013年6月23日校订版.pdf</a><br/>
+<a href="https://u16238391.pipipan.com/fs/16238391-233902493" target="_blank">《诊家枢要》.pdf</a><br/>
+<a href="https://u16238391.pipipan.com/fs/16238391-233902688" target="_blank">临证辨象 李玉宾.pdf</a><br/>
+<a href="https://u16238391.pipipan.com/fs/16238391-233902973" target="_blank">周易尚氏学.pdf</a><br/>
+<a href="https://u16238391.pipipan.com/fs/16238391-233903022" target="_blank">周易尚氏学·尚秉和撰·.pdf</a><br/>
 
 
 ----
