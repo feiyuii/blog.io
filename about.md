@@ -35,7 +35,7 @@ header-img: "img/green.jpg"
 
 
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
-<img src="http://s11.sinaimg.cn/orignal/005IPc5nzy7ht5BBhW29a&690" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;">
+<img src="http://s10.sinaimg.cn/orignal/005IPc5nzy7ht5X30ql19&690" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;">
 <div style="margin-top: 10px; text-align: center;">支付宝扫码</div>
 </div>
 
