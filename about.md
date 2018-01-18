@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 喜欢的话欢迎分享给其他的人. 也可以点击猫猫在B站订阅我.
 </p>
 <p>
-谢谢 ~
+
 <br>
 
 </p>
@@ -61,5 +61,5 @@ header-img: "img/green.jpg"
 
 
 </div>
-
+谢谢 ~
 </div>
