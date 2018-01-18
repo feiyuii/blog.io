@@ -15,6 +15,8 @@ description: 文章金句。
 </center>
 
 
+![](http://wx4.sinaimg.cn/mw690/005IPc5ngy1fnksk314wzj304u04u095.jpg)
+
 1、一般状况:<br>
 性别：<br>
 年龄：<br>
