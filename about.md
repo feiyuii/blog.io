@@ -13,18 +13,16 @@ header-img: "img/green.jpg"
 
 
 
-<div id="donate-text-div" style="display: inline-block; font-size: 15px; vertical-align: top;  width: 100%; ">
+<div id="donate-text-div" style="display: inline-block; font-size: 15px; vertical-align: top;  width: 40%;">
 <div style="margin-top: 20px;">
 <span style="font-weight: bolder; font-size: larger;">HELLO,</span>
-
-
 <div style="margin-top:20px;">
 <p>
 喜欢的话欢迎分享给其他的人. 也可以点击猫猫在B站订阅我.
 </p>
 <p>
 
-<br>
+<br></br>
 
 </p>
 
@@ -32,7 +30,7 @@ header-img: "img/green.jpg"
 </div>
 </div>
 
-<div id="donate-text-div" style="display: inline-block; font-size: 15px; vertical-align: top;  width: 60%; ">
+
 <div id="donate-barcode-div" style="font-size:14px">
 
 
