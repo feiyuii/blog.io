@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "     " 
-header-img: "green.jpg"
+header-img: "img/green.jpg"
 ---
 
 <h3 id="hello">hello</h3>
@@ -15,7 +15,7 @@ header-img: "green.jpg"
 <br>
 </p>
 
-
+----
 
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
 <img src="http://s10.sinaimg.cn/orignal/005IPc5nzy7ht5X30ql19&amp;690" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;" />
