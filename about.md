@@ -25,13 +25,7 @@ header-img: "green.jpg"
 
 
 
-  </div>
-
-</div>
-
-
-
-
+----
 
 
 <div id="donate-barcode-div" style="font-size:14px">
