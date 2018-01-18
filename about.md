@@ -57,9 +57,7 @@ header-img: "img/green.jpg"
 
 <br>
 <br>
-  <span style="font-weight:bold;"> 如果方便, 也可以捐助支持一下我.</span>
-
+  <span style="font-weight:bold;"> 如果方便, 也可以捐助支持一下我。谢谢 ~</span>
 
 </div>
-谢谢 ~
 </div>
