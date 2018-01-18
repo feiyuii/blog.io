@@ -18,7 +18,7 @@ header-img: "img/Xacebook.jpg"
 
 <br>
 </p>
-
+[-](https://home.ctfile.com/#item-files) [-](http://photo.weibo.com/5243024133/photos) [-](https://weibo.com/u/5243024133/home?wvr=5)
 ----
 
 
@@ -29,7 +29,7 @@ header-img: "img/Xacebook.jpg"
 <a href="http://u16238391.ctcontents.com/drfiles/16238391/233902973/周易尚氏学.pdf" target="_blank">周易尚氏学.pdf</a><br/>
 <a href="http://u16238391.ctcontents.com/drfiles/16238391/233903022/周易尚氏学·尚秉和撰·.pdf" target="_blank">周易尚氏学·尚秉和撰·.pdf</a><br/>
 
-[-](https://home.ctfile.com/#item-files)[-](http://photo.weibo.com/5243024133/photos)[-](https://weibo.com/u/5243024133/home?wvr=5)
+
 ----
 
 
