@@ -20,3 +20,10 @@ description: 文章金句。
 <center>
     <p><img src="https://pic2.zhimg.com/80/4771fb768d06e18f47dc0887744d1134_hd.jpg" align="center"></p>
 </center>
+
+
+巧令智生，欲令智昏。
+快其长，扼其生。
+厌不足，欲不止。
+天地不交，四维阻隔。
+繁奢交替，几多劳役。
