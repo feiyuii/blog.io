@@ -8,7 +8,7 @@ description: 文章金句。
 ---
 
 <center>
-<p>![](https://pic2.zhimg.com/80/1a9df0770849fc372e1e826247ae0100_hd.jpg)</p>
+    <p><img src="https://pic2.zhimg.com/80/1a9df0770849fc372e1e826247ae0100_hd.jpg" align="center"></p>
 </center>
 
 - [如何鉴别真假蜂蜜？](https://www.zhihu.com/question/20463681)
