@@ -26,6 +26,8 @@ description: 文章金句。
 
 - [黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm)
 - [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)
+- [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4)
+- [黄帝内经太素](http://www.zysj.com.cn/lilunshuji/taisuzhenben/)
 - [說文解字](http://www.zdic.net/z/swjz/)
 
 
