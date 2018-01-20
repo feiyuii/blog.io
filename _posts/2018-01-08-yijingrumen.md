@@ -25,6 +25,9 @@ description: 文章金句。
 ## [船山全书](http://www.ximalaya.com/8524809/album/?q=%E8%88%B9%E5%B1%B1%E5%85%A8%E4%B9%A6)
 - [冰心铁胆01分享](http://www.panduoduo.net/u/bd-2151958433/1)
 - [船山易学集成：周易内传+周易外传（王夫之）.pdf](http://ishare.iask.sina.com.cn/f/22395499.html)
+- [王夫之文集](http://www.5abook.com/book/guji/201402/457.html)
+
+
 
 ## [周易 读解](https://www.bilibili.com/video/av8525577/index_11.html#page=1)
 
