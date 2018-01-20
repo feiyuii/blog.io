@@ -13,12 +13,12 @@ description: 文章金句。
 - [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)<br>
 [中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
 [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
-- [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
-- [ 倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
 - [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
+- [人体经络手太阴肺经的穴位取穴真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
+- [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
+- [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
 - [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
 - [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
-
 <p>
 
 
