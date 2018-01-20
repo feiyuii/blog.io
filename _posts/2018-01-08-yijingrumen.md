@@ -6,29 +6,36 @@ categories: blog
 tags: [玄门]
 description: 文章金句。
 ---
-## [船山全书](http://www.ximalaya.com/8524809/album/?q=%E8%88%B9%E5%B1%B1%E5%85%A8%E4%B9%A6)
-- [冰心铁胆01分享](http://www.panduoduo.net/u/bd-2151958433/1)
-- [船山易学集成：周易内传+周易外传（王夫之）.pdf](http://ishare.iask.sina.com.cn/f/22395499.html)
-## [《周易》读解](https://www.bilibili.com/video/av8525577/index_11.html#page=1)
-## [中国数术学基础入门](https://www.bilibili.com/video/av15187264/)
-- [大六壬入门初级视频-基础篇](https://www.bilibili.com/video/av14732315/)<br>
-- [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)
-## [《滴天髓》](https://space.bilibili.com/14913263?from=search&seid=12832460799862798786#/)
-- [究竟易经基础班第三讲《五行与天干本义》](http://v.youku.com/v_show/id_XMTgyMjY5ODQxNg==.html?spm=a2hzp.8253869.0.0)
 
-## [傅佩荣详解易经64卦](https://www.bilibili.com/video/av3569370/)
 
->- [如何读懂《周易》？](https://www.zhihu.com/question/20428195?sort=created)<br>
->- [怎样自学易经？](https://www.zhihu.com/question/19622720)<br>
->- [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
->- [图型解释十二地支的刑、 冲、 会、 合、 害](http://www.360doc.com/content/15/0802/23/8780464_489131294.shtml)
+- [如何读懂《周易》？](https://www.zhihu.com/question/20428195?sort=created)<br>
+- [怎样自学易经？](https://www.zhihu.com/question/19622720)<br>
+- [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
+- [图型解释十二地支的刑、 冲、 会、 合、 害](http://www.360doc.com/content/15/0802/23/8780464_489131294.shtml)
 
+<p>
+  </p>
   
 - [周易尚氏学](http://yuedu.163.com/source/5deab14e510b48d588ee7adb214d0984_4)
 - [御纂周易折中](http://yuedu.163.com/source/68ef95c46f4d4961a0634f7353f2b545_4)
 - [《周易正宗》马恒君](https://zhidao.baidu.com/share/19aa889aa5d5ed27824fc484bfa9ff8c.html)
 - [梅花易数](http://book.sbkk8.com/gudai/yijingshuji/meihuayishu/)
 
+
+## [船山全书](http://www.ximalaya.com/8524809/album/?q=%E8%88%B9%E5%B1%B1%E5%85%A8%E4%B9%A6)
+- [冰心铁胆01分享](http://www.panduoduo.net/u/bd-2151958433/1)
+- [船山易学集成：周易内传+周易外传（王夫之）.pdf](http://ishare.iask.sina.com.cn/f/22395499.html)
+
+## [《周易》读解](https://www.bilibili.com/video/av8525577/index_11.html#page=1)
+
+## [中国数术学基础入门](https://www.bilibili.com/video/av15187264/)
+- [大六壬入门初级视频-基础篇](https://www.bilibili.com/video/av14732315/)<br>
+- [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)
+
+## [《滴天髓》](https://space.bilibili.com/14913263?from=search&seid=12832460799862798786#/)
+- [究竟易经基础班第三讲《五行与天干本义》](http://v.youku.com/v_show/id_XMTgyMjY5ODQxNg==.html?spm=a2hzp.8253869.0.0)
+
+## [傅佩荣详解易经64卦](https://www.bilibili.com/video/av3569370/)
 
 ## [塔罗入门视频教程](https://space.bilibili.com/2847721#/channel/detail?cid=6596)
 
@@ -39,7 +46,6 @@ description: 文章金句。
  １、乾坤屯蒙需讼师；２、比小畜兮覆泰否；３、同人大有谦豫随； ４、蛊临观兮噬磕贲；５、剥复无妄大畜颐；６、大过坎离三十备；<br>
  １、咸恒遁兮及大壮；２、晋与明夷家人睽；３、蹇解损益决始萃； ４、升困井革鼎震继；５、艮渐归妹丰旅巽；６、兑涣节兮中孚至；７、小过即济兼未济；８、是为下经三十四； 
 - [按上下卦组合查](http://baike.fututa.com/zhouyi64gua/)
-- [zidian](https://zidian.911cha.com/zi795e.html)
 
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/houtianbagua.jpg?raw=true)
