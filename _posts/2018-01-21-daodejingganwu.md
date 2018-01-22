@@ -24,3 +24,8 @@ description: 文章金句。
 <tr><td>一曰慈</td><td>二曰俭</td><td>三曰不敢为天下先。</td></tr>
 <tr><td>爱也</td><td>志闲而少欲也</td><td>功成而弗居也。</td></tr>
 </table>
+
+<table>
+<tr><td>慈故能勇；</td><td>俭故能广；</td><td>不敢为天下先，故能成器长。</td></tr>
+<tr><td></td><td></td><td>万物作而自化也。</td></tr>
+</table>
