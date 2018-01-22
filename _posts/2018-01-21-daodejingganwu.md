@@ -22,5 +22,5 @@ description: 文章金句。
 
 <table>
 <tr><td>一曰慈</td><td>二曰俭</td><td>三曰不敢为天下先。</td></tr>
-<tr><td>爱也</td><td>志闲而少欲也</td><td>功成而弗居也</td></tr>
+<tr><td>爱也</td><td>志闲而少欲也</td><td>功成而弗居也。</td></tr>
 </table>
