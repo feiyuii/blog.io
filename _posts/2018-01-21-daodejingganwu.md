@@ -11,3 +11,16 @@ description: 文章金句。
 <tr><td>有</td><td>私</td><td>小我</td><td>显</td><td>现在</td><td>有无相生</td></tr>
 <tr><td>无</td><td>一</td><td>大我</td><td>隐</td><td>未来</td><td>有无互根</td></tr>
 </table>
+
+
+
+<table>
+<tr><td>我恒有三宝，持而保之：</td></tr>
+<tr><td> </td></tr>
+</table>
+
+
+<table>
+<tr><td>一曰慈</td><td>二曰俭</td><td>三曰不敢为天下先。</td></tr>
+<tr><td>爱也</td><td>志闲而少欲也</td><td>功成而弗居也</td></tr>
+</table>
