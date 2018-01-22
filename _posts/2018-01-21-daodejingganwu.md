@@ -34,5 +34,13 @@ description: 文章金句。
 
 <table>
 <tr><td>今舍慈且勇；</td><td>舍俭且广；</td><td>舍后且先；</td><td>死矣！</td></tr>
-<tr><td>烧杀</td><td>掠夺</td><td>以贱万物</td><td>命之将尽矣。</td></tr>
+<tr><td>烧杀</td><td>掠夺</td><td>以贱万物</td><td>气数之将尽矣。</td></tr>
 </table>
+
+
+
+<table>
+<tr><td>夫慈以战则胜，以守则固。天将救之，以慈卫之。</td></tr>
+<tr><td>天道本慈，人顺之则得。</td></tr>
+</table>
+
