@@ -13,12 +13,17 @@ description: 文章金句。
 </table>
 
 
+### 第六十七章
+
+<table>
+<tr><td>天下皆谓我道大，似不肖。夫唯大，故似不肖。</td><td>若肖，久矣其细也夫！</td></tr>
+<tr><td>肖者述也</td><td>细者末枝也</td></tr>
+</table>
 
 <table>
 <tr><td>我恒有三宝，持而保之：</td></tr>
 <tr><td> </td></tr>
 </table>
-
 
 <table>
 <tr><td>一曰慈</td><td>二曰俭</td><td>三曰不敢为天下先。</td></tr>
