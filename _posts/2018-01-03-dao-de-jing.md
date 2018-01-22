@@ -19,3 +19,5 @@ description: 道德经 帛书甲本 白云出岫。
 - [老子《道德经》分类释译<2>](http://www.360doc.com/content/15/0905/10/6843215_496992294.shtml)
 - [老子《道德经》分类释译<3>](http://www.360doc.com/content/15/0905/10/6843215_496992481.shtml)
 - [老子《道德经》分类释译<4>](http://www.360doc.com/content/15/0905/10/6843215_496992723.shtml)
+- [道德经](http://yw.eywedu.com/Teaching/ShowClass.asp?ClassID=181)
+
