@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 周易 王夫之
+title: 周易 王夫之 乾卦
 date: 2018-01-22
 categories: blog
 tags: [玄门]
