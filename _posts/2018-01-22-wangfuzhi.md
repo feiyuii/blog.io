@@ -3,7 +3,7 @@ layout: post
 title: 周易 王夫之 乾卦
 date: 2018-01-22
 categories: blog
-tags: [玄门]
+tags: [六十四卦]
 description: 
 ---
 
