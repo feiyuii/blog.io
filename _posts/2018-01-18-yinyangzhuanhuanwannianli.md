@@ -8,6 +8,9 @@ description: 文章金句。
 ---
 
 - [阴阳转换万年历工具](http://qq.ip138.com/day/)
+- [china95](http://www.china95.com/paipan/liuyao/index.asp)
+- [六亲取用](https://wenku.baidu.com/view/257b26317cd184254b3535ae.html)
+- [类象大全](https://wenku.baidu.com/view/8314bd8049649b6648d747e4.html)
 
 
 干 位 1 2 3 4 5 6 7 8 9 10 空亡 <br>
