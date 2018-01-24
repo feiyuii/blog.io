@@ -12,7 +12,7 @@ description: 文章金句。
 - [怎样自学易经？](https://www.zhihu.com/question/19622720)<br>
 - [易经入门基础知识](http://book.sbkk8.com/gudai/yijingshuji/yijingrumen/)
 - [图型解释十二地支的刑、 冲、 会、 合、 害](http://www.360doc.com/content/15/0802/23/8780464_489131294.shtml)
-
+- [八卦的简单立体模型](http://www.360doc.cn/article/58423_3263026.html)
 <p>
   </p>
   
@@ -45,6 +45,8 @@ description: 文章金句。
 ## [傅佩荣详解易经64卦](https://www.bilibili.com/video/av3569370/)
 
 ## [塔罗入门视频教程](https://space.bilibili.com/2847721#/channel/detail?cid=6596)
+
+## [astron](http://www.astron.ac.cn/index.htm)
 
 - 乾，坎，艮，震为阳四宫；
 - 巽。离，坤，兑为阴四宫；    
