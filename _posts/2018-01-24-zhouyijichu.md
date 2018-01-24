@@ -23,6 +23,13 @@ description:
 乾(qián)、坤(kūn)、坎(kǎn)、离(lí)、兑(duì)、艮(gèn)、巽(xùn)、震(zhèn)
 
 
+<center>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-1.jpg" align="center"></p>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-2.jpg" align="center"></p>
+<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fns3bc3hsdj30jg092mxn.jpg" align="center"></p>
+</center>
+
+
 先天八卦顺序在将来的预测中，一般用之起卦，而应用时则全部使用的是后天八卦的方位。<br>
 先天八卦图和太极图都不是伏羲所画，是后人根据伏羲八卦的意思所画出来的。<br>
 之所以称其为“先天”是因为这个图演示的是万物形成的过程，所以在起卦时只能用先天数，不能用后天数。当卦建立之后，表示事物已经形成，预测其以后的发展，则这时必须使用后天八卦。
@@ -32,3 +39,8 @@ description:
 
 
 “乾，健也；坤，顺也； 震，动也； 巽，入也；坎，陷也；离，丽也；艮，止也；兑，说也。
+
+<center>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-4.jpg" align="center"></p>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-13.jpg" align="center"></p>
+</center>
