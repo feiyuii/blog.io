@@ -63,7 +63,9 @@ description: 文章金句。
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/12bigua.jpg?raw=true)
 
-![](http://wx2.sinaimg.cn/mw690/005IPc5nly1fnryygz49vj30px0jgwlq.jpg)
+<center>
+<p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnryygz49vj30px0jgwlq.jpg" align="center"></p>
+</center>
 
 ![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/liushisigua.jpg?raw=true)
 
