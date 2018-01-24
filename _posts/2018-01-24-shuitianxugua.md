@@ -35,4 +35,6 @@ display: inline-block;">
   - [4.6 上九，击蒙，不利为寇，利御寇。](#jump不利为寇)
   
   
+
+![](http://www.guoyi360.com/uploads/allimg/130319/1-130319144632248.jpg)
   
