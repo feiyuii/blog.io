@@ -83,9 +83,33 @@ description:
 
 两两之间不是综卦就是错卦
 <center>
+乾坤屯蒙需讼师，比小畜兮履泰否。<br>
+同人大有谦豫随，蛊临观兮噬嗑贲。<br>
+剥复无妄大畜颐，大过坎离三十备。<br>
+咸恒遁兮及大壮，晋与明夷家人睽。<br>
+蹇解损益夬姤萃，升困井革鼎震继。<br>
+艮渐归妹丰旅巽，兑涣节兮中孚至。<br>
+小过既济兼未济，是为下经三十四。<br>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/4-13.jpg" align="center"></p>
   <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/4-3.jpg" align="center"></p>
   <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/4-4.jpg" align="center"></p>
   <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/4-5.jpg" align="center"></p>
   <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/4-6.jpg" align="center"></p>
 </center>
+
+1. 天地人三才【只有乾坤两卦才有】<br>
+经卦的三个爻分别代表天、人、地三才道，别卦在此基础之上，将三才有阴有阳被扩展到六爻中，初爻、二爻代表地德，三爻、四爻代表人德，五爻、上爻代表天德。这样三才分别有四种状态：太阳、少阳、太阴、少阴。
+2. 得位失位<br>
+得位为正，失位为不正
+3. 承乘比应<br>
+阴下阳上；阴阳相合，两阳两阴相敌；同类同德相孚。
+4. 卦爻升降、三爻进、四爻退
+5. 错、综、互、单变卦、十二卦变
+
+
+
+
+
+
+
+
