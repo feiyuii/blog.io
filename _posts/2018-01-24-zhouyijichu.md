@@ -16,7 +16,7 @@ description:
 margin-left: 0.5em;
 display: inline-block;">
         <p>
-            <span style="color: rgb(118, 146, 60);">天水讼</span>
+            <span style="color: rgb(118, 146, 60);">周易基础</span>
         </p>
     </section>
     <section class="xhr" style="margin-left: 0.5em; width: 0px; height: 0px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 10px solid rgb(135, 201, 67); display: inline-block; border-bottom-color: rgb(135, 201, 67);"></section>
