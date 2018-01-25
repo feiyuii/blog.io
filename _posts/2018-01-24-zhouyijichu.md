@@ -52,7 +52,12 @@ description:
 
 天一生水，地六成之，所以一是生数、六是成数；地二生火，地七成之，所以二是生数、七是成数，同理类推得出，1、2、3、4、5为生数，6、7、8、9、10为成数。那么所谓的“左旋相生”是什么意思呢？大家从中土看起，由中土到西金，再到北水、到东木、到南火、最后回到中土，顺着这样的路线正好按顺时针方向围绕河图一周，这就是“左旋相生”。生数之和1+2+3+4+5=15，成数之和6+7+8+9+10=40，这个生数与成数之和55就是“大衍之数”，用周易的蓍草法用的就是这个数。
 
-
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
+<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5ngy1fnrqm8hsgpj30cj0c4ab1.jpg" align="center"></p>
+<p><img src="http://wx3.sinaimg.cn/mw690/005IPc5ngy1fnrqm9gj1xj30aa0ajaar.jpg" align="center"></p>
+<p><img src="http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnrqm7k9ybj30hj0c3q4r.jpg" align="center"></p>
+</center>
 五行：一曰水，二曰火，三曰木，四曰金，五曰土。<br>
 水曰润下，火曰炎上，木曰曲直，金曰从革，土曰稼穑。<br>
 润下作咸，炎上作苦，曲直作酸，从革作辛，稼穑作甘。
@@ -111,7 +116,15 @@ description:
 
 <center>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/5-1.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/nbagong.jpg" align="center"></p>
 </center>
+
+
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
+</center>
+
+
 
 
 
