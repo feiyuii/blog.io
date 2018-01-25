@@ -8,6 +8,22 @@ description:
 ---
 
 <span id = "jump"></span>
+
+<section style="margin: 0px auto; text-align: center;">
+    <section class="xhr" style="width: 0px; height: 0px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 10px solid rgb(135, 201, 67); display: inline-block; opacity: 0.5; border-top-color: rgb(135, 201, 67);"></section>
+    <section class="xhr" style="width: 0px; height: 0px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 10px solid rgb(135, 201, 67); display: inline-block; margin-left: -3px; border-bottom-color: rgb(135, 201, 67);"></section>
+    <section style="
+margin-left: 0.5em;
+display: inline-block;">
+        <p>
+            <span style="color: rgb(118, 146, 60);">天水讼</span>
+        </p>
+    </section>
+    <section class="xhr" style="margin-left: 0.5em; width: 0px; height: 0px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 10px solid rgb(135, 201, 67); display: inline-block; border-bottom-color: rgb(135, 201, 67);"></section>
+    <section class="xhr" style="width: 0px; height: 0px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 10px solid rgb(135, 201, 67); display: inline-block; opacity: 0.5; margin-left: -3px; border-top-color: rgb(135, 201, 67);"></section>
+</section>
+
+
 - [两仪四象八卦](#jump易有太极)
   - [先天八卦](#jump先天八卦图和)
   - [后天八卦](#jump后天八卦)
@@ -254,7 +270,7 @@ description:
 决定于人的道德修养和判断。
 
 
-<span id = "jump周周易的整体性思维"></span>
+<span id = "jump周易的整体性思维"></span>
 ## [周易的整体性思维](#jump)
 - 德与欲之间的冲突
 - 个人和社会之间的冲突
