@@ -29,13 +29,15 @@ description:
 ## [易有太极，是生两仪， 两仪生四象， 四象生八卦，八卦定吉凶，吉凶生大业。](#jump)
 ### 四象
 当阴阳两仪继续交融变化就形成了四象，所谓四象即：少阳、太阳、少阴、太阴。
+<center>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-1.jpg" align="center"></p>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-2.jpg" align="center"></p>
+</center>
 ### 八卦
 四象再进一步相互交合，便产生了我们学习的重点内容：八卦。<br>
 乾(qián)、坤(kūn)、坎(kǎn)、离(lí)、兑(duì)、艮(gèn)、巽(xùn)、震(zhèn)
 
 <center>
-<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-1.jpg" align="center"></p>
-<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-2.jpg" align="center"></p>
 <p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fns3bc3hsdj30jg092mxn.jpg" align="center"></p>
 </center>
 
