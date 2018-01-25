@@ -83,7 +83,7 @@ display: inline-block;">
 先天八卦演示的是事物的形成。事物完全形成之前，方位是不存在的，也是毫无意义的。
 
 <center>
-<p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnsnfuajhej30g70i2qaa.jpg" align="center"></p>
+<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fnsp7iwgtej30g70i2qaa.jpg" align="center"></p>
 </center>
 
 
@@ -100,9 +100,9 @@ display: inline-block;">
 
 
 <center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/houtianbagua.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg" align="center"></p>
+<p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnspat1lwjj30sj0k3gob.jpg" align="center"></p>
+<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fnsp7kkoyrj30sl0jvgp4.jpg" align="center"></p>
+<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fnsp7i54qgj30s70jhju7.jpg" align="center"></p>
 </center>
 
 
@@ -132,7 +132,7 @@ display: inline-block;">
 
 <center>
 <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnsm1au9wij30co0diwev.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
+<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fnspbh7z2qj30kr0gvjsv.jpg" align="center"></p>
 <p><img src="http://wx4.sinaimg.cn/mw690/005IPc5ngy1fnrqm8hsgpj30cj0c4ab1.jpg" align="center"></p>
 <p><img src="http://wx3.sinaimg.cn/mw690/005IPc5ngy1fnrqm9gj1xj30aa0ajaar.jpg" align="center"></p>
 <p><img src="http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnrqm7k9ybj30hj0c3q4r.jpg" align="center"></p>
@@ -218,7 +218,7 @@ display: inline-block;">
 ## [十二消息卦](#jump)
 <center>
 <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnryygz49vj30px0jgwlq.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12bigua.jpg" align="center"></p>
+<p><img src="http://wx3.sinaimg.cn/mw690/005IPc5nly1fnsp7hhhyej30sf0jrwi4.jpg" align="center"></p>
 </center>
 
 
@@ -253,7 +253,7 @@ display: inline-block;">
 <span id = "jump吉凶断语"></span>
 ## [吉凶断语](#jump)
 <center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
+<p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnsp7joz9pj30oa03r0tk.jpg" align="center"></p>
 </center>
 
 
