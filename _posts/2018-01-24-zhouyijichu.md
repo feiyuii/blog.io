@@ -112,6 +112,11 @@ description:
 5. 错、综、互、单变卦、十二卦变
 
 
+<center>
+<p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnryygz49vj30px0jgwlq.jpg" align="center"></p>
+</center>
+
+
 只有一个阴爻时，该爻的地位较为显着，其次是中爻（即二爻、五爻），再其次是三爻、四爻，初爻、上爻最不重要，一般忽略不看。
 
 <center>
