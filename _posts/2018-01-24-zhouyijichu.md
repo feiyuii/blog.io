@@ -58,14 +58,19 @@ description:
 <p><img src="http://wx3.sinaimg.cn/mw690/005IPc5ngy1fnrqm9gj1xj30aa0ajaar.jpg" align="center"></p>
 <p><img src="http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnrqm7k9ybj30hj0c3q4r.jpg" align="center"></p>
 </center>
+
+
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/houtianbagua.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg" align="center"></p>
+</center>
+
 五行：一曰水，二曰火，三曰木，四曰金，五曰土。<br>
 水曰润下，火曰炎上，木曰曲直，金曰从革，土曰稼穑。<br>
 润下作咸，炎上作苦，曲直作酸，从革作辛，稼穑作甘。
 <center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/houtianbagua.jpg" align="center"></p>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/3-2.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg" align="center"></p>
 </center>
 
 洛书，古称龟书，传说大禹治水时有神龟出于洛水，其背有文，九文近头，一文近尾，三文近左肋，七文近右肋，四文近左肩，二文近右肩，六文近右足，八文近左足，五文在背中，其位九，象九宫，中五又象太极，中一文又象一气；其形方，方象地。陈抟最初传出时，是与河图边在一起被称之为“龙图”，后人为说明方便才根据古书记载分别命名的。
