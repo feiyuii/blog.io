@@ -84,7 +84,7 @@ display: inline-block;">
 
 
 
-<table width="70%" border="1" align="center" style="font-size:10pt;line-height:18px;border-collapse:collapse;">
+<table width="100%" border="1" align="center" style="font-size:10pt;line-height:18px;border-collapse:collapse;">
 <col width="10%"><col width="20%"><col width="50%"><col width="20%">
 <tr align="center">
 	<td bgcolor="f1f1f1">No</td>
