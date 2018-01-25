@@ -48,7 +48,7 @@ description: 文章金句。
 [爱爱医](http://signin.iiyi.com/)<br>
 [如何自学中医？](https://www.zhihu.com/question/19796475)<br>
 - [医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html)
-
+- [神农本草经读](https://www.zhinuo.space/essence/1731887717.html)
 
 
 ![image](http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170723/967e95a068cc4f9791acb71a4b5ab70a_th.jpg)
