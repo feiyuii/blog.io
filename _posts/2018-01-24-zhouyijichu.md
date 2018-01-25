@@ -22,15 +22,15 @@ description:
   - [十二消息卦](#jump十二消息卦)
 - [八宫](#jump八宫)
 - [吉凶断语](#jump吉凶断语)
-- [](#jump)
-- [](#jump)
-- [](#jump)
-- [](#jump)
-- [](#jump)
-- [](#jump)
-- [](#jump)
-- [](#jump)
-- [](#jump)
+- [周易的类比联想](#jump周易的类比联想)
+- [周易的整体性思维](#jump周易的整体性思维)
+- [象数](#jump象数)
+- [周易的哲学观](#jump周易的哲学观)
+  - [人道](#jump人道)
+  - [天是有德的，是有意志的](#jump天垂象)
+  - [天人合一的理论基础](#jump天人合一)
+- [易的三种含义：](#jump易的三种含义)
+
 
 ![](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/liushisigua.jpg)
 易经包含连山易、归藏易和周易，因连山易和归藏易的正本已经失传，但其应用却被或多或少地保存了下来，以至于现在的人很难分清某一预测方法是属于连山易还是归藏易了。
@@ -277,7 +277,7 @@ description:
 初难知，二多誉、三多凶，四多惧，五多功，上易知
 
 
-<span id = "jump象数"></span>
+<span id = "jump周易的哲学观"></span>
 ## [周易的哲学观](#jump)
 - 彰往察来（主观目的）
 - 天人合一（哲学基础 也是终极目的）
