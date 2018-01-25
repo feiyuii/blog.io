@@ -141,8 +141,8 @@ display: inline-block;">
 ### [八卦各性](#jump)
 “雷以动之，风以散之，雨以润之，日以烜之，艮以止之，兑以说之，乾以君之，坤以藏之。”<br>
 “乾，健也；坤，顺也； 震，动也； 巽，入也；坎，陷也；离，丽也；艮，止也；兑，说也。<br>
-乾一；兑二；离三；震四；巽五；坎六；艮七；坤八。
-
+乾一；兑二；离三；震四；巽五；坎六；艮七；坤八。<br>
+乾：君、刚、健；坤：顺、藏；震：动；巽：入、木；坎：陷、险；离：丽、明、文明、大明；艮：止；兑：说、悦。
 <center>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-4.jpg" align="center"></p>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-13.jpg" align="center"></p>
