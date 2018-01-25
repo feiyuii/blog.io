@@ -17,8 +17,8 @@ description:
 - [体用](#jump体用)
 - [单卦与重卦](#jump单卦与重卦)
 - [六十四卦两两之间不是综卦就是错卦](#jump两两之间不是综卦就是错卦)
-- [](#jump)
-- [](#jump)
+- [卦、爻象意](#jump爻象意)
+- [十二消息卦](#jump十二消息卦)
 - [](#jump)
 - [](#jump)
 
@@ -164,8 +164,8 @@ description:
 </center>
 
 
-
-## 
+<span id = "jump爻象意"></span>
+## [卦、爻象意](#jump)
 1. 天地人三才【只有乾坤两卦才有】<br>
 经卦的三个爻分别代表天、人、地三才道，别卦在此基础之上，将三才有阴有阳被扩展到六爻中，初爻、二爻代表地德，三爻、四爻代表人德，五爻、上爻代表天德。这样三才分别有四种状态：太阳、少阳、太阴、少阴。
 2. 得位失位<br>
@@ -176,6 +176,9 @@ description:
 5. 错、综、互、单变卦、十二卦变
 
 
+
+<span id = "jump十二消息卦"></span>
+## [十二消息卦](#jump)
 <center>
 <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnryygz49vj30px0jgwlq.jpg" align="center"></p>
 <p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12bigua.jpg" align="center"></p>
