@@ -6,7 +6,7 @@ categories: blog
 tags: [玄门]
 description: 
 ---
-
+![](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/liushisigua.jpg)
 易经包含连山易、归藏易和周易，因连山易和归藏易的正本已经失传，但其应用却被或多或少地保存了下来，以至于现在的人很难分清某一预测方法是属于连山易还是归藏易了。
 
 
@@ -36,8 +36,8 @@ description:
 先天八卦演示的是事物的形成。事物完全形成之前，方位是不存在的，也是毫无意义的。
 
 “雷以动之，风以散之，雨以润之，日以烜之，艮以止之，兑以说之，乾以君之，坤以藏之。”<br>
-“乾，健也；坤，顺也； 震，动也； 巽，入也；坎，陷也；离，丽也；艮，止也；兑，说也。
-
+“乾，健也；坤，顺也； 震，动也； 巽，入也；坎，陷也；离，丽也；艮，止也；兑，说也。<br>
+乾一；兑二；离三；震四；巽五；坎六；艮七；坤八。
 
 “天之阳在南而阴在北，地之阴在南而阳在北。天之阳在南，故日处之；地之刚在北，故山处之。所以地高西北，天高东南也。”这句话解释了坎离二卦的位置，以及天倾西北、地陷东南的原因。“易者，一阴一阳之谓也。震兑始交也，故当朝夕之位。”这句是解释震东兑西的原因。
 
@@ -114,10 +114,15 @@ description:
 
 <center>
 <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnryygz49vj30px0jgwlq.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12bigua.jpg" align="center"></p>
 </center>
 
 
 只有一个阴爻时，该爻的地位较为显着，其次是中爻（即二爻、五爻），再其次是三爻、四爻，初爻、上爻最不重要，一般忽略不看。
+
+
+1. 乾，坎，艮，震为阳四宫；
+1. 巽。离，坤，兑为阴四宫；
 
 <center>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/5-1.jpg" align="center"></p>
