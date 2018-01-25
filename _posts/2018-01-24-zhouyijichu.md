@@ -24,7 +24,7 @@ display: inline-block;">
 </section>
 
 
-- [两仪四象八卦](#jump易有太极)
+- [两仪四象八卦](#jump易有太极) [guoyi360](http://www.guoyi360.com/zyqs/)
   - [先天八卦](#jump先天八卦图和)
   - [后天八卦](#jump后天八卦)
   - [八卦各性](#jump八卦各性)
@@ -81,6 +81,38 @@ display: inline-block;">
 先天八卦顺序在将来的预测中，一般用之起卦，而应用时则全部使用的是后天八卦的方位。<br>
 之所以称其为“先天”是因为这个图演示的是万物形成的过程，所以在起卦时只能用先天数，不能用后天数。当卦建立之后，表示事物已经形成，预测其以后的发展，则这时必须使用后天八卦。<br>
 先天八卦演示的是事物的形成。事物完全形成之前，方位是不存在的，也是毫无意义的。
+
+
+
+<table width="70%" border="1" align="center" style="font-size:10pt;line-height:18px;border-collapse:collapse;">
+<col width="10%"><col width="20%"><col width="50%"><col width="20%">
+<tr align="center">
+	<td bgcolor="f1f1f1">No</td>
+	<td bgcolor="f1f1f1">经传名称</td>
+	<td bgcolor="f1f1f1">作用</td>
+	<td bgcolor="f1f1f1">作者</td>
+</tr><tr>
+<td align="center">1</td><td>卦辞</td><td>单个卦象的占卜辞</td><td>文王</td>
+</tr><tr>
+<td align="center">2</td><td>爻辞</td><td>单个变爻的占卜辞</td><td>周公</td>
+</tr><tr>
+<td align="center">3</td><td>彖辞</td><td>对上下经卦的卦象说明</td><td>孔子及门人</td>
+</tr><tr>
+<td align="center">4</td><td>象辞</td><td>从卦象入手对卦辞和爻辞分别说明</td><td>孔子及门人</td>
+</tr><tr>
+<td align="center">5</td><td>文言</td><td>对众卦之父母：乾坤二卦的特别说明</td><td>孔子及门人</td>
+</tr><tr>
+<td align="center">6</td><td>系辞</td><td>对整体64个卦进行系统地概括解释，分析其哲理，以及如何运用。</td><td>孔子及门人</td>
+</tr><tr>
+<td align="center">7</td><td>说卦传</td><td>对八个经卦的取象、意义等详细描述</td><td>孔子及门人</td>
+</tr><tr>
+<td align="center">8</td><td>杂卦传</td><td>对卦名的简要说明</td><td>孔子及门人</td>
+</tr><tr>
+<td align="center">9</td><td>序卦传</td><td>对卦序的简要说明</td><td>孔子及门人</td>
+</tr>
+</table>
+
+
 
 <center>
 <p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fnsp7iwgtej30g70i2qaa.jpg" align="center"></p>
