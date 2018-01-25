@@ -53,6 +53,7 @@ description:
 天一生水，地六成之，所以一是生数、六是成数；地二生火，地七成之，所以二是生数、七是成数，同理类推得出，1、2、3、4、5为生数，6、7、8、9、10为成数。那么所谓的“左旋相生”是什么意思呢？大家从中土看起，由中土到西金，再到北水、到东木、到南火、最后回到中土，顺着这样的路线正好按顺时针方向围绕河图一周，这就是“左旋相生”。生数之和1+2+3+4+5=15，成数之和6+7+8+9+10=40，这个生数与成数之和55就是“大衍之数”，用周易的蓍草法用的就是这个数。
 
 <center>
+<p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnsm1au9wij30co0diwev.jpg" align="center"></p>
 <p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/htls.jpg" align="center"></p>
 <p><img src="http://wx4.sinaimg.cn/mw690/005IPc5ngy1fnrqm8hsgpj30cj0c4ab1.jpg" align="center"></p>
 <p><img src="http://wx3.sinaimg.cn/mw690/005IPc5ngy1fnrqm9gj1xj30aa0ajaar.jpg" align="center"></p>
@@ -136,11 +137,6 @@ description:
 </center>
 
 
-<center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
-</center>
-
-
 乾为天，天风姤，天山遁，天地否，风地观，山地剥，火地晋，火天大有。
 
 坎为水，水泽节，水雷屯，水火既济，泽火革，雷火丰，地火明夷，地水师。
@@ -156,6 +152,11 @@ description:
 坤为地，地雷复，地泽临，地天泰，雷天大壮，泽天夬，水天需，水地比。
 
 兑为泽，泽水困，泽地萃，泽山咸，水山蹇，地山谦，雷山小过，雷泽归妹
+
+
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
+</center>
 
 
 ## 周易的类比联想
@@ -178,6 +179,8 @@ description:
 #### 周易的义理蕴含在象数的表现之中，两者辩证统一。
 - 卦象（八卦、六十四重卦）与爻象
 - 空间之数（奇数为阳、偶数为阴）与时间之数
+
+
 #### 爻位
 - 地位
 自初而上的六个高低不等的爻位可比喻成：庶民、士人、大夫、公侯、天子、太庙。
