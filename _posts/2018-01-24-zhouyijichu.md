@@ -16,11 +16,16 @@ description:
 - [洛书](#jump洛书)
 - [体用](#jump体用)
 - [单卦与重卦](#jump单卦与重卦)
-- [六十四卦两两之间不是综卦就是错卦](#jump两两之间不是综卦就是错卦)
-- [卦、爻象意](#jump爻象意)
-- [十二消息卦](#jump十二消息卦)
+  - [六十四卦两两之间不是综卦就是错卦](#jump两两之间不是综卦就是错卦)
+  - [卦、爻象意](#jump爻象意)
+  - [十二消息卦](#jump十二消息卦)
 - [八宫](#jump八宫)
+- [吉凶断语](#jump吉凶断语)
 - [](#jump)
+- [](#jump)
+- [](#jump)
+
+
 
 ![](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/liushisigua.jpg)
 易经包含连山易、归藏易和周易，因连山易和归藏易的正本已经失传，但其应用却被或多或少地保存了下来，以至于现在的人很难分清某一预测方法是属于连山易还是归藏易了。
@@ -217,6 +222,8 @@ description:
 兑为泽，泽水困，泽地萃，泽山咸，水山蹇，地山谦，雷山小过，雷泽归妹
 
 
+<span id = "jump吉凶断语"></span>
+## [吉凶断语](#jump)
 <center>
 <p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/dgy.jpg" align="center"></p>
 </center>
