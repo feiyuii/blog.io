@@ -62,17 +62,18 @@ description:
 水曰润下，火曰炎上，木曰曲直，金曰从革，土曰稼穑。<br>
 润下作咸，炎上作苦，曲直作酸，从革作辛，稼穑作甘。
 <center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/houtianbagua.jpg" align="center"></p>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/3-2.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg" align="center"></p>
 </center>
 
 洛书，古称龟书，传说大禹治水时有神龟出于洛水，其背有文，九文近头，一文近尾，三文近左肋，七文近右肋，四文近左肩，二文近右肩，六文近右足，八文近左足，五文在背中，其位九，象九宫，中五又象太极，中一文又象一气；其形方，方象地。陈抟最初传出时，是与河图边在一起被称之为“龙图”，后人为说明方便才根据古书记载分别命名的。
-<center>
-<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/3-9.jpg" align="center"></p>
-</center>
 
 将龟甲上图案规范一下就形成右图，仍然由黑点和白点通过连线分组而成，这样得到的九个数，除中宫五不用之外，其它八个与易数相关联，这样就得出了后天八卦的方位结构。
 <center>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/3-6.jpg" align="center"></p>
+<p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/3-9.jpg" align="center"></p>
 </center>
 
 体”是指事物的本体，“用”是指作用、应用、发展、变化等。火以用为始，以体为终，所以火是动态的；水以体为始，而以用为终，所以水是静态的。
