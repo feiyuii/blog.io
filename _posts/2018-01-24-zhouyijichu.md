@@ -45,7 +45,7 @@ display: inline-block;">
   - [人道](#jump人道)
   - [天是有德的，是有意志的](#jump天垂象)
   - [天人合一的理论基础](#jump天人合一)
-- [易的三种含义：](#jump易的三种含义)
+- [易的三种含义](#jump易的三种含义)
 
 
 ![](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/liushisigua.jpg)
