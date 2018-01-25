@@ -10,7 +10,7 @@ description:
 <span id = "jump"></span>
 - [两仪四象八卦](#jump易有太极)
   - [先天八卦](#jump先天八卦图和)
-  - [后天八卦](#jump先天八卦图和)
+  - [后天八卦](#jump后天八卦)
   - [八卦各性](#jump八卦各性)
 - [河图](#jump河图)
   - [五行](#jump五行)
