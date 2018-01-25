@@ -33,6 +33,8 @@ description:
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-1.jpg" align="center"></p>
 <p><img src="http://www.quanxue.cn/QT_XiaoYa/YiJing/img/2-2.jpg" align="center"></p>
 </center>
+
+
 ### 八卦
 四象再进一步相互交合，便产生了我们学习的重点内容：八卦。<br>
 乾(qián)、坤(kūn)、坎(kǎn)、离(lí)、兑(duì)、艮(gèn)、巽(xùn)、震(zhèn)
