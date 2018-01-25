@@ -50,7 +50,7 @@ description:
 之所以称其为“先天”是因为这个图演示的是万物形成的过程，所以在起卦时只能用先天数，不能用后天数。当卦建立之后，表示事物已经形成，预测其以后的发展，则这时必须使用后天八卦。<br>
 先天八卦演示的是事物的形成。事物完全形成之前，方位是不存在的，也是毫无意义的。
 
-
+## 后天八卦
 天之阳在南而阴在北，地之阴在南而阳在北。<br>
 天之阳在南，故日处之；<br>
 地之刚在北，故山处之。<br>
@@ -59,6 +59,14 @@ description:
 
 
 “易者，一阴一阳之谓也。震兑始交也，故当朝夕之位。”这句是解释震东兑西的原因。
+
+
+<center>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/houtianbagua.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg" align="center"></p>
+<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg" align="center"></p>
+</center>
+
 
 <span id = "jump八卦各性"></span>
 ### [八卦各性](#jump)
@@ -92,12 +100,6 @@ description:
 <p><img src="http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnrqm7k9ybj30hj0c3q4r.jpg" align="center"></p>
 </center>
 
-
-<center>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/houtianbagua.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/12sc.jpg" align="center"></p>
-<p><img src="https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/fwt.jpg" align="center"></p>
-</center>
 
 五行：一曰水，二曰火，三曰木，四曰金，五曰土。<br>
 水曰润下，火曰炎上，木曰曲直，金曰从革，土曰稼穑。<br>
