@@ -28,7 +28,7 @@ description: 文章金句。
 - [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
 - [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
 - [說文解字](http://www.zdic.net/z/swjz/)
-- [手写查字典|](http://www.cilin.org/zidian/shouxie.html)
+- [手写查字典](http://www.cilin.org/zidian/shouxie.html)
 <p>
 
 
