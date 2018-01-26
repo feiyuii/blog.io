@@ -22,12 +22,18 @@ description: 文章金句。
 
   </p>
 
-<p>[黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm) | [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html) | [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4) | [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)</p>
-[针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51) | [說文解字](http://www.zdic.net/z/swjz/) | [手写查字典](http://www.cilin.org/zidian/shouxie.html)
+
+<table>
+<tr><td>
+[黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm)</td><td>[素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)</td><td>[黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4)</td><td>[景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)</td></tr>
+<tr><td>[针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)</td><td>隐</td><td>[說文解字](http://www.zdic.net/z/swjz/)</td><td>[手写查字典](http://www.cilin.org/zidian/shouxie.html)</td></tr>
+</table>
+
 <p>
 
 
   </p>
+
   
 [刘渡舟《注解伤寒论》](https://www.bilibili.com/video/av5279105/?from=search&seid=10505123308258717645#page=26) | [胡希恕讲伤寒论](https://www.bilibili.com/video/av16137342/) | [郝万山讲伤寒论](https://www.bilibili.com/video/av5299854/?from=search&seid=16757318033254442277#page=3) | [胡希恕金匮要略](http://www.huangdineijing.com/forum-105-1.html)
 
