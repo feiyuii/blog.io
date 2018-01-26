@@ -8,14 +8,7 @@ description: 文章金句。
 ---
 
 [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html) | [《国学堂》 梁冬对话徐文兵： 《黄帝内经之上古天真论》](https://www.bilibili.com/video/av6209897/?from=search&seid=1611147863375217739) | [ 126 黄帝内经网重新发现中医太美mp3](https://pan.baidu.com/s/1eS59Dey#list/path=%2F&parentPath=%2F) | [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html) | 
-
-<p>
-  </p>
-
-[中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
-[中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
-- [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
-- [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)
+[倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html) | [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml) | [中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530) | [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534) | 
 
 <p>
   </p>
