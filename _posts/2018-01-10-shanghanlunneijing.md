@@ -22,13 +22,8 @@ description: 文章金句。
 
   </p>
 
-- [黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm)
-- [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)
-- [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4)
-- [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
-- [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
-- [說文解字](http://www.zdic.net/z/swjz/)
-- [手写查字典](http://www.cilin.org/zidian/shouxie.html)
+[黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm) | [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html) | [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4) | [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
+[针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51) | [說文解字](http://www.zdic.net/z/swjz/) | [手写查字典](http://www.cilin.org/zidian/shouxie.html)
 <p>
 
 
