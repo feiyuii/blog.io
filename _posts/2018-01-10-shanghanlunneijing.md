@@ -13,10 +13,8 @@ description: 文章金句。
 - [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)<br>
 [中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
 [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
-- [人体经络手太阴肺经的穴位取穴真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
 - [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
-- [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
-- [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
+- [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)
 
 <p>
   </p>
@@ -27,9 +25,9 @@ description: 文章金句。
 <a href="http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4" target="_blank">黄帝内经素问补注释文</a></td><td>
 <a href="http://www.zysj.com.cn/lilunshuji/jingyuequanshu/" target="_blank">景岳全书</a></td></tr>
 
-<tr><td><a href="https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51" target="_blank">针灸穴名解</a></td><td><a href="https://www.ddvip.com/weixin/20171127A0UR2T00.html)" target="_blank">医话二十八脉完全图解</a></td><td></td><td></td></tr>
+<tr><td><a href="https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51" target="_blank">针灸穴名解</a></td><td><a href="https://www.ddvip.com/weixin/20171127A0UR2T00.html)" target="_blank">医话二十八脉完全图解</a></td><td><a href="http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html" target="_blank">十二经脉</a></td><td></td></tr>
 
-<tr><td></td><td> </td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.cilin.org/zidian/shouxie.html" target="_blank">手写查字典</a></td></tr>
+<tr><td></td><td><a href="http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1" target="_blank">人体经络手太阴肺经的穴位取穴真人讲解</a></td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.cilin.org/zidian/shouxie.html" target="_blank">手写查字典</a></td></tr>
 </table>
 
 <p>
