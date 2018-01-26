@@ -30,29 +30,21 @@ description: 文章金句。
 <tr><td><a href="https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51" target="_blank">针灸穴名解</a></td><td> </td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.cilin.org/zidian/shouxie.html" target="_blank">手写查字典</a></td></tr>
 </table>
 
-
-
-<a href="http://buy.quanxue.cn" target="_blank">书城</a>
 <p>
-
-
   </p>
 
   
 [刘渡舟《注解伤寒论》](https://www.bilibili.com/video/av5279105/?from=search&seid=10505123308258717645#page=26) | [胡希恕讲伤寒论](https://www.bilibili.com/video/av16137342/) | [郝万山讲伤寒论](https://www.bilibili.com/video/av5299854/?from=search&seid=16757318033254442277#page=3) | [胡希恕金匮要略](http://www.huangdineijing.com/forum-105-1.html)
 
 <p>
-
-
   </p>
   
 
-- [《中医诊断学》朱文锋](https://www.bilibili.com/video/av8791208/?from=search&seid=17837577599471993887#page=3)<br>
-[爱爱医](http://signin.iiyi.com/)<br>
-[如何自学中医？](https://www.zhihu.com/question/19796475)<br>
-- [医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html)
-- [神农本草经读](https://www.zhinuo.space/essence/1731887717.html)
+[《中医诊断学》朱文锋](https://www.bilibili.com/video/av8791208/?from=search&seid=17837577599471993887#page=3) | 
+[爱爱医](http://signin.iiyi.com/) | 
+[如何自学中医？](https://www.zhihu.com/question/19796475) | 
+[医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html) | 
+[神农本草经读](https://www.zhinuo.space/essence/1731887717.html) | 
 
 
-![image](http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170723/967e95a068cc4f9791acb71a4b5ab70a_th.jpg)
-![image](http://www.med66.com/upload/html/2016/09/yl180501.png)
+![image](http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170723/967e95a068cc4f9791acb71a4b5ab70a_th.jpg) | ![image](http://www.med66.com/upload/html/2016/09/yl180501.png)
