@@ -21,7 +21,7 @@ description: 文章金句。
 
 <tr><td><a href="https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51" target="_blank">针灸穴名解</a></td><td><a href="https://www.ddvip.com/weixin/20171127A0UR2T00.html)" target="_blank">医话二十八脉完全图解</a></td><td><a href="http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html" target="_blank">十二经脉</a></td><td><a href="http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1" target="_blank">人体经络手真人讲解</a></td></tr>
 
-<tr><td></td><td></td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.cilin.org/zidian/shouxie.html" target="_blank">手写查字典</a></td></tr>
+<tr><td></td><td></td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
 </table>
 
 <p>
