@@ -25,9 +25,5 @@ display: inline-block;">
 </section>
 
 
-<td><div align="center">◎ <span class="px12">楞嚴經清淨明誨章講義 </span><a href="http://www.amtb.org.tw/pdf/07-04jy.pdf"><img 
-src="../image/pdf_logo.gif" border="0" align="absmiddle"></a> </div></td>
-                          </tr>
-                          </table>
-                      </td>
-                    </tr>
+<td><div align="center">◎ <span class="px12">楞嚴經清淨明誨章講義 </span><a href="http://www.amtb.org.tw/pdf/07-04jy.pdf">
+<img src="http://www.amtb.org.tw/image/pdf_logo.gif" border="0" align="absmiddle"></a> </div></td>
