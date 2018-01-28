@@ -33,7 +33,12 @@ description: 文章金句。
 <p>
   </p>
 
-[《中医诊断学》朱文锋](https://www.bilibili.com/video/av8791208/?from=search&seid=17837577599471993887#page=3) | [爱爱医](http://signin.iiyi.com/) | [如何自学中医？](https://www.zhihu.com/question/19796475) | [神农本草经读](https://www.zhinuo.space/essence/1731887717.html) | 
+[ 《辅行诀》的几个基本概念](http://www.ngotcm.com/forum/thread-183967-1-1.html) | [《辅行诀》 疏解附图](http://www.360doc.com/content/15/0820/12/14620411_493614721.shtml) | [神农本草经读](https://www.zhinuo.space/essence/1731887717.html) | [水中火老师的问诊单](https://tieba.baidu.com/p/3228419739?red_tag=2363928859) 
+
+<p>
+  </p>
+  
+[《中医诊断学》朱文锋](https://www.bilibili.com/video/av8791208/?from=search&seid=17837577599471993887#page=3) | [爱爱医](http://signin.iiyi.com/) | [如何自学中医？](https://www.zhihu.com/question/19796475)  | [一位中医爱好者的十年自学中医之路](http://blog.sina.com.cn/s/blog_7f3473380102vsca.html)
 
 <p>
   </p>
