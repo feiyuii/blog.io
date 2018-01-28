@@ -49,6 +49,7 @@ display: inline-block;">
 
 
 ![](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/liushisigua.jpg)
+![](http://wx2.sinaimg.cn/mw690/005IPc5nly1fnwoyk70tvj30rb0fv40m.jpg)
 易经包含连山易、归藏易和周易，因连山易和归藏易的正本已经失传，但其应用却被或多或少地保存了下来，以至于现在的人很难分清某一预测方法是属于连山易还是归藏易了。
 
 
