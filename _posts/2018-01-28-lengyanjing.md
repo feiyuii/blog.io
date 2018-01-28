@@ -28,9 +28,9 @@ display: inline-block;">
 
 <table width="600" border="1" align="center" cellpadding="6" cellspacing="0" bordercolor="#A5D1FA">
 <tr>
-<td width="300" bgcolor="#C5E2FC"><div align="center">影片 </div></td>
-<td width="300" bgcolor="#C5E2FC"><div align="center">淨空法師 </div></td>
-    <td width="300" bgcolor="#C5E2FC"><div align="center">资料 </div></td>
+<td width="200" bgcolor="#C5E2FC"><div align="center">影片 </div></td>
+<td width="200" bgcolor="#C5E2FC"><div align="center">淨空法師 </div></td>
+    <td width="200" bgcolor="#C5E2FC"><div align="center">资料 </div></td>
 </tr>
 <tr>
 <td><div align="center"><a href="https://www.bilibili.com/video/av9186868/?from=search&seid=9632384254207776065" target="_blank"><img src="http://www.amtb.org.tw/bt/btu.gif" border="0" align="absmiddle"></a><span class="px12">清淨明誨章</span> </div></td>
