@@ -13,7 +13,6 @@ description: 文章金句。
 <p>
   </p>
 
-
 <table>
 <tr><td><a href="http://www.tcm100.com/user/hdnjswjz/index.htm" target="_blank">黄帝内经素问集注</a></td><td><a href="http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html" target="_blank">素问悬解</a></td><td>
 <a href="http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4" target="_blank">黄帝内经素问补注释文</a></td><td>
@@ -34,6 +33,11 @@ description: 文章金句。
   </p>
 
 [ 《辅行诀》的几个基本概念](http://www.ngotcm.com/forum/thread-183967-1-1.html) | [《辅行诀》 疏解附图](http://www.360doc.com/content/15/0820/12/14620411_493614721.shtml) | [神农本草经读](https://www.zhinuo.space/essence/1731887717.html) | [水中火老师的问诊单](https://tieba.baidu.com/p/3228419739?red_tag=2363928859) 
+
+<p>
+  </p>
+
+[藥課](http://blog.sina.com.cn/s/articlelist_5509748363_0_1.html) | [徐文兵](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%A3%B2%E9%A3%9F+hopexuwenbing&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1595&sst0=1517208897356&lkt=2%2C1517208896852%2C1517208897252) | [徐文兵饮食滋味全集文字版笔记](http://www.360doc.com/content/17/0714/11/39940152_671253883.shtml) | [Summer](http://v.qq.com/vplus/daaf10a0c2dbd2c4a0b6c87bb849e22c/videos)
 
 <p>
   </p>
