@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 南华真经注疏
+title: 音乐播放器
 date: 2018-01-30
 categories: blog
-tags: [玄门]
+tags: [闲扯]
 description: 
 ---
 
@@ -17,7 +17,7 @@ description:
 <input type="button" value="下一首" id="mm" onclick="ststs(3)"/>
 <h2>我的音乐播放器</h2>
 <table style="width:60%;height:300px;">
-<tr><td><a href="" onclick="ssss('1')">panda猫 - 想你.m4a</a></td>
+<tr><td><a href="http://172.16.24.182/fs.open.kugou.com/f5887f6c1d8bb6459f62ecf14ab58996/5a7440c0/G046/M03/09/0D/bg0DAFZcWu2AEU7HADzUufAcSQ4832.mp3" onclick="ssss('1')">panda猫 - 想你.m4a</a></td>
 <td><a href="" onclick="ssss('2')">Sara - 即使知道要见面.mp3</a></td></tr>
 
 <tr><td><a href="" onclick="ssss('3')">The Collective - Last Christmas.mp3</a></td>
