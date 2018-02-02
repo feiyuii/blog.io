@@ -7,56 +7,7 @@ tags: [玄门]
 description: 
 ---
 
-<script language="javascript" src="jquery-1.4.2.js"></script>
-<script language="javascript">
-var sum = 1;
-function ssss(a)
-{
-var s = document.getElementById("sd");
-sum = a;
-s.src = "music/"+sum+".mp3";
-s.play();
-$("#mar")[0].innerText = "当前播放："+$("td:eq("+(sum-1)+")")[0].innerText;
-s.onended = function(){
-s.src = "music/"+sum+".mp3";
-sum++;
-if(sum == 15){sum = 1;}
-s.play();
-$("#mar")[0].innerText = "当前播放："+$("td:eq("+(sum-1)+")")[0].innerText
-}
-}
-function ststs(b)
-{
-if(b==2)
-{
-if($("#sse")[0].value=="播放")
-{
-$("#sse")[0].value="停止";
-var s = document.getElementById("sd");
-s.pause();
-}
-else
-{
-$("#sse")[0].value="播放";
-ssss(sum);
-}
-}
-if(b==1)
-{
-sum--;
-if(sum==0){sum=15;}
-ssss(sum);
-}
-if(b==3)
-{
-sum++;
-if(sum==16){sum=1;}
-ssss(sum);
-}
-}
-</script>
-</head>
-<body>
+
 <center>
 <br/><br/>
 <marquee loop id="mar"></marquee>
