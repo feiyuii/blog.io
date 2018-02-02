@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐播放器
+title: 音乐播放
 date: 2018-01-30
 categories: blog
 tags: [闲扯]
@@ -9,35 +9,13 @@ description:
 
 
 <center>
-<br/><br/>
-<marquee loop id="mar"></marquee>
-<audio id="sd"></audio><br/>
-<input type="button" value="上一首" id="tt" onclick="ststs(1)"/>
-<input type="button" value="播放" id="sse" onclick="ststs(2)"/>
-<input type="button" value="下一首" id="mm" onclick="ststs(3)"/>
-<h2>我的音乐播放器</h2>
+<h2>音乐播放</h2>
 <table style="width:60%;height:300px;">
-<tr><td><a href="http://172.16.24.182/fs.open.kugou.com/f5887f6c1d8bb6459f62ecf14ab58996/5a7440c0/G046/M03/09/0D/bg0DAFZcWu2AEU7HADzUufAcSQ4832.mp3" onclick="ssss('1')">panda猫 - 想你.m4a</a></td>
-<td><a href="" onclick="ssss('2')">Sara - 即使知道要见面.mp3</a></td></tr>
+<tr><td><a href="http://m10.music.126.net/20180202194211/b723d9006ffcfde2bfca6471ed1125f5/ymusic/3e7a/e532/106d/906b5f95fc9f536874fd8624be2fff67.mp3">白い花 - Zone</a></td>
+<td><a href="http://m10.music.126.net/20180202194558/c83131de29bc24f3a1f7250c1a396e46/ymusic/3eb0/5d70/4875/d860fe5380a9996af6a82f47c5d4f26b.mp3">true blue - Zone</a></td></tr>
 
-<tr><td><a href="" onclick="ssss('3')">The Collective - Last Christmas.mp3</a></td>
-<td><a href="" onclick="ssss('4')">爱情专属权-龙梅子.mp3</a></td></tr>
+<tr><td><a href="http://fs.open.kugou.com/51a7c31d1c734cf739a023be300d223e/5a7449e8/G046/M03/09/0D/bg0DAFZcWu2AEU7HADzUufAcSQ4832.mp3">夢ノカケラ - ZONE</a></td>
+<td><a href="http://dl.stream.qqmusic.qq.com/M800004Eybxj3JD87x.mp3?vkey=4FF3BF230CF9DBD6DFD4E4C0C0CB00FD2021BE3F6B9B56E945A7DF72A49F9FE75AF733F57F9855C0C902F025AE8D01E5E58FDC34DC43AA78&guid=5150825362&fromtag=1">証 - ZONE</a></td></tr>
 
-<tr><td><a href="http://dl.stream.qqmusic.qq.com/M800001qYmny0r34TE.mp3?vkey=DBA4FD311806C6E6E2B115340BD0F351EBDDB1EDE0C66CC6D8D53E8BE9E33756DC1E1B390FCB4B4E331AF6A86FDEE02D2EF873B42693978C&guid=5150825362&fromtag=1" onclick="ssss('5')">爱人爱人在哪里-马吟吟.mp3</a></td>
-<td><a href="" onclick="ssss('6')">安琥-会有天使替我爱你.mp3</a></td></tr>
-
-<tr><td><a href="" onclick="ssss('7')">安琥-天使的翅膀.mp3</a></td>
-<td><a href="" onclick="ssss('8')">别用下辈子安慰我-陈瑞.mp3</a></td></tr>
-
-<tr><td><a href="" onclick="ssss('9')">陈楚生 - 有没有人曾告诉你.mp3</a></td>
-<td><a href="" onclick="ssss('10')">陈淑桦 - 梦醒时分.mp3</a></td></tr>
-
-<tr><td><a href="" onclick="ssss('11')">丁当 - 手掌心.mp3</a></td>
-<td><a href="" onclick="ssss('12')">金贵晟 - 虹之间.mp3</a></td></tr>
-
-<tr><td><a href="" onclick="ssss('13')">马健南-马航去的地方.mp3</a></td>
-<td><a href="" onclick="ssss('14')">满江 - 飞鸟.mp3</a></td></tr>
-
-<tr><td><a href="" onclick="ssss('15')">不是因为寂寞才想你-雷婷</a></td></tr>
 </table>
 </center>
