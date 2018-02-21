@@ -19,10 +19,11 @@ description: 文章金句。
 
 <p>
   </p>
-
-<tr><td><a href="http://www.tcm100.com/user/hdnjswjz/index.htm" target="_blank">黄帝内经素问集注</a></td><td><a href="http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html" target="_blank">素问悬解</a></td><td>
-<a href="http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4" target="_blank">黄帝内经素问补注释文</a></td><td>
-<a href="http://www.zysj.com.cn/lilunshuji/jingyuequanshu/" target="_blank">景岳全书</a></td></tr>
+  
+- [黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.html)
+- [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)
+- [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4)
+- [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
 
 <p>
   </p>
