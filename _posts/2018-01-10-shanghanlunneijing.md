@@ -36,7 +36,7 @@ description: 文章金句。
 - [脉诊要领之六字诀](https://www.zhzyw.com/zycs/q/138261610K9J0C86D02GKEL8.html)
 
 <table>
-<tr><td></td><td></td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
+<tr><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
 </table>
 
 <p>
@@ -76,4 +76,5 @@ description: 文章金句。
 <p>
   </p>
 
-![image](http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170723/967e95a068cc4f9791acb71a4b5ab70a_th.jpg) | ![image](http://www.med66.com/upload/html/2016/09/yl180501.png)
+- ![image](http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170723/967e95a068cc4f9791acb71a4b5ab70a_th.jpg)
+- ![image](http://www.med66.com/upload/html/2016/09/yl180501.png)
