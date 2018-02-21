@@ -20,24 +20,31 @@ description: 文章金句。
 <p>
   </p>
 
-<table>
 <tr><td><a href="http://www.tcm100.com/user/hdnjswjz/index.htm" target="_blank">黄帝内经素问集注</a></td><td><a href="http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html" target="_blank">素问悬解</a></td><td>
 <a href="http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4" target="_blank">黄帝内经素问补注释文</a></td><td>
 <a href="http://www.zysj.com.cn/lilunshuji/jingyuequanshu/" target="_blank">景岳全书</a></td></tr>
 
-<tr><td><a href="https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51" target="_blank">针灸穴名解</a></td><td><a href="https://www.ddvip.com/weixin/20171127A0UR2T00.html)" target="_blank">医话二十八脉完全图解</a></td><td><a href="http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html" target="_blank">十二经脉</a></td><td><a href="http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1" target="_blank">人体经络手真人讲解</a></td></tr>
+<p>
+  </p>
+  
+- [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
+- [医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html)
+- [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
+- [人体经络手真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
 
+
+<table>
 <tr><td></td><td></td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
 </table>
 
 <p>
   </p>
 
-  
-- [刘渡舟《注解伤寒论》](https://www.bilibili.com/video/av5279105/?from=search&seid=10505123308258717645#page=26)
 - [胡希恕讲伤寒论](https://www.bilibili.com/video/av16137342/)
-- [郝万山讲伤寒论](https://www.bilibili.com/video/av5299854/?from=search&seid=16757318033254442277#page=3)
 - [胡希恕金匮要略](http://www.huangdineijing.com/forum-105-1.html)
+- [刘渡舟《注解伤寒论》](https://www.bilibili.com/video/av5279105/?from=search&seid=10505123308258717645#page=26)
+- [郝万山讲伤寒论](https://www.bilibili.com/video/av5299854/?from=search&seid=16757318033254442277#page=3)
+
 
 <p>
   </p>
@@ -54,6 +61,7 @@ description: 文章金句。
 - [徐文兵](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%A3%B2%E9%A3%9F+hopexuwenbing&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1595&sst0=1517208897356&lkt=2%2C1517208896852%2C1517208897252)
 - [徐文兵饮食滋味全集文字版笔记](http://www.360doc.com/content/17/0714/11/39940152_671253883.shtml)
 - [Summer](http://v.qq.com/vplus/daaf10a0c2dbd2c4a0b6c87bb849e22c/videos)
+- [亚伦日记](http://v.qq.com/vplus/544d68d2203b9d018cd6e6189ae90664/videos)
 
 <p>
   </p>
