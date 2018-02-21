@@ -38,7 +38,9 @@ description: 文章金句。
 - [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
 - [人体经络手真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
 - [脉诊要领之六字诀](https://www.zhzyw.com/zycs/q/138261610K9J0C86D02GKEL8.html)
-
+- [脉诊最简单 只需要分辨  ](http://gaoiming.blog.163.com/blog/static/13999976820109131187519/)
+- [中医脉象动画（脉象模式图）医脉象动画（脉象模式图）](http://www.360doc.com/content/15/0520/10/16276083_471894263.shtml)
+- [让你一天就可以掌握中医诊断方法](http://www.360doc.com/content/15/0620/09/16276083_479354112.shtml)
 
 
 <p>
@@ -77,7 +79,6 @@ description: 文章金句。
 
 <p>
   </p>
-
 
 <center>
     <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5ngy1fonylw5olhj30cx0bbjwq.jpg" align="center"></p>
