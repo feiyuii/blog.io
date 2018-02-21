@@ -7,6 +7,10 @@ tags: [中医]
 description: 文章金句。
 ---
 
+<table>
+<tr><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
+</table>
+
 - [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html)
 - [《国学堂》 梁冬对话徐文兵： 《黄帝内经之上古天真论》](https://www.bilibili.com/video/av6209897/?from=search&seid=1611147863375217739)<br>
 [ 126 黄帝内经网重新发现中医太美mp3](https://pan.baidu.com/s/1eS59Dey#list/path=%2F&parentPath=%2F)
@@ -35,9 +39,7 @@ description: 文章金句。
 - [人体经络手真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
 - [脉诊要领之六字诀](https://www.zhzyw.com/zycs/q/138261610K9J0C86D02GKEL8.html)
 
-<table>
-<tr><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
-</table>
+
 
 <p>
   </p>
