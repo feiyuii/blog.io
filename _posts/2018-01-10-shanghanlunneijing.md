@@ -82,7 +82,7 @@ description: 文章金句。
 
 <center>
     <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5ngy1fonylw5olhj30cx0bbjwq.jpg" align="center"></p>
-    <p><img src="http://wx2.sinaimg.cn/large/005IPc5ngy1fooi31dbrpj30cy0frmxr.jpg" align="center"></p>
+    <p><img src="http://wx4.sinaimg.cn/large/005IPc5ngy1fooizcl4ozj30cy0fraao.jpg" align="center"></p>
     <p><img src="http://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170723/967e95a068cc4f9791acb71a4b5ab70a_th.jpg" align="center"></p>
     <p><img src="http://www.med66.com/upload/html/2016/09/yl180501.png" align="center"></p>
 </center>
