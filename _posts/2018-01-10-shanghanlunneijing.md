@@ -29,10 +29,11 @@ description: 文章金句。
   </p>
   
 - [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
+- [经穴位图 穴位密码网](http://www.xueweimima.com/e/search/result/?searchid=1295)
 - [医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html)
 - [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
 - [人体经络手真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
-
+- [脉诊要领之六字诀](https://www.zhzyw.com/zycs/q/138261610K9J0C86D02GKEL8.html)
 
 <table>
 <tr><td></td><td></td><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
