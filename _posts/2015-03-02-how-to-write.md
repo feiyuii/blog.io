@@ -9,7 +9,9 @@ description: 文章金句。
 
 
 
->[太极拳](http://weixin.sogou.com/weixin?type=2&s_from=input&query=yhjls8&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2994&sst0=1514605723274&lkt=6%2C1514605720823%2C1514605723044)   [传统实战太极拳](https://zhuanlan.zhihu.com/bptjq) [太极拳习练步骤 ](http://mp.weixin.qq.com/s?src=3&timestamp=1514634773&ver=1&signature=y4Pu3kp5Oc*rwp22Z5t9lIg2DNvPPPBmQtYEQCJ1xSHk2cjC6hnn3ReApTb4iH6EElxmjOgO2AUQX-1Ar47x-li85-ktr*xE7oKEhN73naQib8Dbw5TAq5jOfcf3uMFpSQmctJtdVDN3gR3hNtfpQA==)
+>- [太极拳](http://weixin.sogou.com/weixin?type=2&s_from=input&query=yhjls8&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=2994&sst0=1514605723274&lkt=6%2C1514605720823%2C1514605723044)   
+>- [传统实战太极拳](https://zhuanlan.zhihu.com/bptjq) 
+>- [太极拳习练步骤 ](http://mp.weixin.qq.com/s/9Z29gLJ7_7RDD6mu1hbNtQ)
 
 ###### 天下太极拳本质都是一种在 *肌肉不紧张*  状态下的 *发力方式*
 
