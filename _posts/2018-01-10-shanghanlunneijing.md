@@ -76,6 +76,9 @@ description: 文章金句。
 - [爱爱医](http://signin.iiyi.com/)
 - [如何自学中医？](https://www.zhihu.com/question/19796475)
 - [一位中医爱好者的十年自学中医之路](http://blog.sina.com.cn/s/blog_7f3473380102vsca.html)
+- [常用穴位使用方法](http://www.51yam.com/article-348-1.html)
+- [常用穴位指南](http://www.51yam.com/article-347-1.html)
+- [cn939](http://www.cn939.com/shuyu/)
 
 <p>
   </p>
