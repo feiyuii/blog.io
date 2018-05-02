@@ -38,6 +38,7 @@ description: 文章金句。
 - [大六壬入门初级视频-基础篇](https://www.bilibili.com/video/av14732315/)<br>
 - [大六壬提高班22讲](https://www.bilibili.com/video/av12182721/)
 - [大六壬提高讲座 第二部分/共五部分](https://www.bilibili.com/video/av18912694/)
+- [大六壬提高讲座 第三部分/共五部分](https://www.bilibili.com/video/av22815135)
 - [大六壬初级入门正式版](https://www.bilibili.com/video/av19830524/)
 
 ## [梁湘润子平概论全集](https://space.bilibili.com/94832150?from=search&seid=15360690948402010774#/video?tid=0&page=1&keyword=&order=pubdate)
