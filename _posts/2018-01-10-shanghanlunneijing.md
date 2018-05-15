@@ -19,6 +19,7 @@ description: 文章金句。
 - [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
 [倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
 - [水中火老师的问诊单](https://tieba.baidu.com/p/3228419739?red_tag=2363928859) 
+- [道家中医 ](http://m.ximalaya.com/zhubo/39461284/albums/)
 
 <p>
   </p>
