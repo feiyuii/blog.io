@@ -12,7 +12,6 @@ description: 文章金句。
 [中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
 [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
 - [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
-[倪海厦解读黄帝内经](http://www.360doc.com/content/17/0330/14/1537536_641405288.shtml)
 - [水中火老师的问诊单](https://tieba.baidu.com/p/3228419739?red_tag=2363928859) 
 - [道家中医 ](http://m.ximalaya.com/zhubo/39461284/albums/)
 
