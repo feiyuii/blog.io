@@ -13,3 +13,5 @@ description: 文章金句。
 - [病证](http://www.mst1739.com/mstexp/book_search_mulu.php)
 - [古今中西医疾病对照](http://www.360doc.com/content/16/0309/10/31414486_540692208.shtml)
 - [zhzyw药材图片](http://cn.bing.com/search?q=%E9%BB%84%E8%BF%9E+site%3Awww.zhzyw.org&go=%E6%8F%90%E4%BA%A4&qs=n&form=QBRE&pq=%E9%BB%84%E8%BF%9E+site%3Awww.zhzyw.org&sc=3-21&sp=-1&sk=)
+- [水中火老师的问诊单](https://tieba.baidu.com/p/3228419739?red_tag=2363928859) 
+
