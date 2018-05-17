@@ -6,9 +6,6 @@ categories: blog
 tags: [中医]
 description: 文章金句。
 ---
-<table>
-<tr><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
-</table>
 
 - [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html)
 - [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)<br>
