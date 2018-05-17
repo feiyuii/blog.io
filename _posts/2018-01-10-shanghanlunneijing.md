@@ -6,18 +6,6 @@ categories: blog
 tags: [中医]
 description: 文章金句。
 ---
-
-- [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html)
-- [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)<br>
-[中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
-[中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
-- [倪海厦 针灸学](http://v.knowwing.com/CTYX/ZYX/17772e42b59d74cf.html)<br>
-- [水中火老师的问诊单](https://tieba.baidu.com/p/3228419739?red_tag=2363928859) 
-- [道家中医 ](http://m.ximalaya.com/zhubo/39461284/albums/)
-
-<p>
-  </p>
- 
  
 - [胡希恕讲伤寒论](https://www.bilibili.com/video/av16137342/)
 - [胡希恕金匮要略](http://www.huangdineijing.com/forum-105-1.html)
