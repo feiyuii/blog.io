@@ -11,8 +11,6 @@ description: 文章金句。
 </table>
 
 - [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html)
-- [《国学堂》 梁冬对话徐文兵： 《黄帝内经之上古天真论》](https://www.bilibili.com/video/av6209897/?from=search&seid=1611147863375217739)<br>
-[ 126 黄帝内经网重新发现中医太美mp3](https://pan.baidu.com/s/1eS59Dey#list/path=%2F&parentPath=%2F)
 - [中里巴人求医不如求己视频全集](http://www.huangdineijing.com/forum-123-1.html)<br>
 [中里巴人万病皆可心药医视频全集](http://v.youku.com/v_show/id_XMTcyODMyNDc4NA==.html?spm=a2hzp.8253876.0.0&f=28194530)<br>
 [中里巴人求医不如求己视频全集](http://v.youku.com/v_show/id_XMTcyODEwMDk0NA==.html?spm=a2hzp.8253876.0.0&f=28194534)
@@ -23,15 +21,8 @@ description: 文章金句。
 
 <p>
   </p>
-  
-- [黄帝内经素问集注](http://www.tcm100.com/user/hdnjswjz/index.htm)
-- [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)
-- [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4)
-- [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
-
-<p>
-  </p>
-
+ 
+ 
 - [胡希恕讲伤寒论](https://www.bilibili.com/video/av16137342/)
 - [胡希恕金匮要略](http://www.huangdineijing.com/forum-105-1.html)
 - [刘渡舟《注解伤寒论》](https://www.bilibili.com/video/av5279105/?from=search&seid=10505123308258717645#page=26)
