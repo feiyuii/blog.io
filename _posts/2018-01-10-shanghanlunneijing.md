@@ -7,7 +7,7 @@ tags: [中医]
 description: 文章金句。
 ---
 <table>
-<tr><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td><td><a href="http://www.guoxuedashi.com/ShuKu/" target="_blank">guoxuedashi</a></td></tr>
+<tr><td><a href="http://www.zdic.net/z/swjz/" target="_blank">說文解字</a></td><td><a href="http://www.sharew.cn/" target="_blank">手写查字典众享词典</a></td></tr>
 </table>
 
 - [JT叔叔中医基础理论视频音频讲座+讲义下载](http://daoyi.yuexinli.com/11692.html)
@@ -28,20 +28,6 @@ description: 文章金句。
 - [素问悬解](http://www.zysj.com.cn/lilunshuji/suwenxuanjie/index.html)
 - [黄帝内经素问补注释文](http://yuedu.163.com/source/c0cf0cfcfbc44677b51a61131e135a6e_4)
 - [景岳全书](http://www.zysj.com.cn/lilunshuji/jingyuequanshu/)
-
-<p>
-  </p>
-  
-- [针灸穴名解](https://wenku.baidu.com/view/9ec8f50ebb68a98271fefa3c.html?pn=51)
-- [经穴位图 穴位密码网](http://www.xueweimima.com/e/search/result/?searchid=1295)
-- [医话二十八脉完全图解](https://www.ddvip.com/weixin/20171127A0UR2T00.html)
-- [十二经脉](http://www.quanxue.cn/CT_ZhongYi/JingLuoIndex.html)
-- [人体经络手真人讲解](http://v.youku.com/v_show/id_XMTY3NzI0NTAw.html?spm=a2h0j.8191423.playlist_content.5~5~5~A&&f=4399562&from=y1.2-3.4.1)
-- [脉诊要领之六字诀](https://www.zhzyw.com/zycs/q/138261610K9J0C86D02GKEL8.html)
-- [脉诊最简单 只需要分辨  ](http://gaoiming.blog.163.com/blog/static/13999976820109131187519/)
-- [中医脉象动画（脉象模式图）医脉象动画（脉象模式图）](http://www.360doc.com/content/15/0520/10/16276083_471894263.shtml)
-- [让你一天就可以掌握中医诊断方法](http://www.360doc.com/content/15/0620/09/16276083_479354112.shtml)
-
 
 <p>
   </p>
@@ -73,9 +59,9 @@ description: 文章金句。
   </p>
   
 - [爱爱医](http://signin.iiyi.com/)
-- [常用穴位使用方法](http://www.51yam.com/article-348-1.html)
-- [常用穴位指南](http://www.51yam.com/article-347-1.html)
+- [guoxuedashi](http://www.guoxuedashi.com/ShuKu/)
 - [cn939](http://www.cn939.com/shuyu/)
+
 
 
 
