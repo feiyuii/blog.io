@@ -13,7 +13,9 @@ description: 文章金句。
 >1. [GUI视觉规范](http://huaban.com/pins/545169450/zoom)
 >1. [Hierarchy原则](http://www.shejidaren.com/hierarchy-principle.html)
 
-![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/ee.png?raw=true)
+
+----
+
 
 >1. [LOGO](http://images.shejidaren.com/wp-content/uploads/2014/09/10-commandments-of-logo-design_cn.jpg)
 >2. [COLOR](http://images.shejidaren.com/wp-content/uploads/2014/06/peise-b.png)
@@ -31,7 +33,9 @@ description: 文章金句。
 >* 文字间的行距、字距
 >* 列与列之间的距离
 
-![image](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/crowds.jpg)
+
+----
+
 
 >1. [freepik](https://www.freepik.com/)
 >1. [365psd](https://cn.365psd.com/)
@@ -46,7 +50,9 @@ description: 文章金句。
 >1. [toptal](https://www.toptal.com/designers/subtlepatterns/page/3/)
 
 
-![image](https://github.com/feiyuii/feiyuii.github.io/blob/master/img/crowds/hz.jpg?raw=true)
+----
+
+
 >1. [研习设 yanxishe2017](http://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%A0%94%E4%B9%A0%E8%AE%BE&ie=utf8&_sug_=n&_sug_type_=)<br> [2017年研习设内容总结 ](http://mp.weixin.qq.com/s?src=11&timestamp=1514817019&ver=610&signature=Rws5HMrY926EzlI1N0qATsaum2eIpmD5XbHqNqpjfu3DhCb-oRtFEZP85plVY55OABvVwTUn6kY-BFgKaG9aJxCvABid0IASyHH2FMuHRVtWoyqE9SDlty5NdvP0rRL9&new=1)
 >1. [版式设计入门基础教程](http://www.zcool.com.cn/collection/ZNjMwMDQyOA==)
 >1. [3招搞定电商banner排版](http://www.zcool.com.cn/article/ZNDA3NTc2.html)
