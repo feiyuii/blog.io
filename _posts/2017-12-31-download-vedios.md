@@ -12,7 +12,7 @@ description: 文章金句。
 >2. [vip视频](http://tv.dsqndh.com/)
 >2. [89影视](http://www.yubo360.com/)
 >2. [clipconverter](http://www.clipconverter.cc/)  
->2. [jijidown](http://www.jijidown.com/)
+>2. [jijidown](http://client.jijidown.com/index.html)
 >2. [apowersoft在线录屏](https://www.apowersoft.cn/free-online-screen-recorder)
 >2. [neets.cc](http://neets.cc/category?state=&page=1&type=&country=&endYear=&startYear=&week=&order=2)
 >2. [anytv.vip](http://www.anytv.vip/)
