@@ -15,11 +15,9 @@ description: 文章金句。
 >2. [apowersoft在线录屏](https://www.apowersoft.cn/free-online-screen-recorder)
 >2. [neets.cc](http://neets.cc/category?state=&page=1&type=&country=&endYear=&startYear=&week=&order=2)
 >2. [89影视](http://www.yubo360.com/)
->2. [zuikuai](http://www.zuikuai.tv)
 >2. [zzzfun](http://www.zzzfun.com/)
 >2. [追剧日常](http://www.lukou.com/userfeed/10885005)
 >2. [追剧日常2](http://www.lukou.com/userfeed/16317946)
->2. [动漫汇聚基地吧](https://tieba.baidu.com/f?ie=utf-8&kw=%E5%8A%A8%E6%BC%AB%E6%B1%87%E8%81%9A%E5%9F%BA%E5%9C%B0&fr=search)
 >2. [music](http://music.dsqndh.com/)
 
 
