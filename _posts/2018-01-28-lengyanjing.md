@@ -7,7 +7,7 @@ tags: [玄门]
 description: 
 ---
 
-<span id = "jump"></span>
+
 
 
 <section style="margin: 0px auto; text-align: center;">
@@ -36,7 +36,8 @@ display: inline-block;">
 <td><div align="center"><a href="http://www.fxsp.org/movie/index67.html" target="_blank"><img src="http://www.amtb.org.tw/bt/btu.gif" border="0" align="absmiddle"></a><span class="px12">清淨明誨章</span> </div></td>
 <td><div align="center"><a href="http://www.amtb.org.tw/bt/amtbbtdw.asp?web_choice=7" target="_blank"><img src="http://www.amtb.org.tw/bt/btu.gif" border="0" align="absmiddle"></a><span class="px12">网址 </span> </div></td>
 <td><div align="center"><a href="http://www.amtb.org.tw/pdf/07-04jy.pdf" target="_blank"><img src="http://www.amtb.org.tw/image/pdf_logo.gif" border="0" align="absmiddle"></a><span class="px12">講義 </span> </div></td>
-    
+</tr>
+
 
 1. [ 净土法门 楞严经清净明诲章 讲记](http://www.xuefo.net/nr/article36/364106.html)
 1. [净空法师 楞严经清净明诲章亲闻记](http://www.fodizi.net/jingkongfashi/2124.html)
