@@ -38,4 +38,5 @@ display: inline-block;">
 <td><div align="center"><a href="http://www.amtb.org.tw/pdf/07-04jy.pdf" target="_blank"><img src="http://www.amtb.org.tw/image/pdf_logo.gif" border="0" align="absmiddle"></a><span class="px12">講義 </span> </div></td>
     
 
-    
+1. [ 净土法门 楞严经清净明诲章 讲记](http://www.xuefo.net/nr/article36/364106.html)
+1. [净空法师 楞严经清净明诲章亲闻记](http://www.fodizi.net/jingkongfashi/2124.html)
