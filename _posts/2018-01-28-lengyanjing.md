@@ -33,7 +33,7 @@ display: inline-block;">
     <td width="200" bgcolor="#C5E2FC"><div align="center">资料 </div></td>
 </tr>
 <tr>
-<td><div align="center"><a href="https://www.bilibili.com/video/av9186868/?from=search&seid=9632384254207776065" target="_blank"><img src="http://www.amtb.org.tw/bt/btu.gif" border="0" align="absmiddle"></a><span class="px12">清淨明誨章</span> </div></td>
+<td><div align="center"><a href="http://www.fxsp.org/movie/index67.html" target="_blank"><img src="http://www.amtb.org.tw/bt/btu.gif" border="0" align="absmiddle"></a><span class="px12">清淨明誨章</span> </div></td>
 <td><div align="center"><a href="http://www.amtb.org.tw/bt/amtbbtdw.asp?web_choice=7" target="_blank"><img src="http://www.amtb.org.tw/bt/btu.gif" border="0" align="absmiddle"></a><span class="px12">网址 </span> </div></td>
 <td><div align="center"><a href="http://www.amtb.org.tw/pdf/07-04jy.pdf" target="_blank"><img src="http://www.amtb.org.tw/image/pdf_logo.gif" border="0" align="absmiddle"></a><span class="px12">講義 </span> </div></td>
     
