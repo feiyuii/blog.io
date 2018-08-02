@@ -39,5 +39,9 @@ display: inline-block;">
 </tr>
 
 
-1. [ 净土法门 楞严经清净明诲章 讲记](http://www.xuefo.net/nr/article36/364106.html)
+<p>
+   </p>
+
+
+1. [净土法门 楞严经清净明诲章 讲记](http://www.xuefo.net/nr/article36/364106.html)
 1. [净空法师 楞严经清净明诲章亲闻记](http://www.fodizi.net/jingkongfashi/2124.html)
