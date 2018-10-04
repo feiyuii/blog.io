@@ -49,7 +49,6 @@ display: inline-block;">
 
 
 ![](https://raw.githubusercontent.com/feiyuii/feiyuii.github.io/master/img/crowds/liushisigua.jpg)
-![](http://wx2.sinaimg.cn/mw690/005IPc5nly1fnwoyk70tvj30rb0fv40m.jpg)
 易经包含连山易、归藏易和周易，因连山易和归藏易的正本已经失传，但其应用却被或多或少地保存了下来，以至于现在的人很难分清某一预测方法是属于连山易还是归藏易了。
 
 
@@ -114,22 +113,8 @@ display: inline-block;">
 先天八卦演示的是事物的形成。事物完全形成之前，方位是不存在的，也是毫无意义的。
 
 
-<center>
-<p><img src="http://wx4.sinaimg.cn/mw690/005IPc5nly1fnsp7iwgtej30g70i2qaa.jpg" align="center"></p>
-</center>
-
-
 <span id = "jump后天八卦"></span>
 ### [后天八卦](#jump)
-天之阳在南而阴在北，地之阴在南而阳在北。<br>
-天之阳在南，故日处之；<br>
-地之刚在北，故山处之。<br>
-所以地高西北，天高东南也。<br>
-这句话解释了坎离二卦的位置，以及天倾西北、地陷东南的原因。
-
-
-“易者，一阴一阳之谓也。震兑始交也，故当朝夕之位。”这句是解释震东兑西的原因。
-
 
 <center>
 <p><img src="http://wx2.sinaimg.cn/mw690/005IPc5nly1fnspat1lwjj30sj0k3gob.jpg" align="center"></p>
@@ -296,14 +281,6 @@ display: inline-block;">
 决定于人的道德修养和判断。
 
 
-<span id = "jump周易的整体性思维"></span>
-## [周易的整体性思维](#jump)
-- 德与欲之间的冲突
-- 个人和社会之间的冲突
-- 人和自然之间的冲突
-
-
-
 <span id = "jump象数"></span>
 ## [象数](#jump)
 #### 周易的义理蕴含在象数的表现之中，两者辩证统一。
@@ -327,12 +304,6 @@ display: inline-block;">
 - 阴阳刚柔（构成分析 一分为二辩证法）
 - 万物交感（作用方式）
 - 发展变化 周而复始 物极必反（客观规律）
-
-
-<span id = "jump人道"></span>
-## [人道，人法地，地法天，天法自然](#jump)
-- 以天为师（理论依据 道德准则）
-- 和谐大同（社会效果）
 
 
 <span id = "jump天垂象"></span>
