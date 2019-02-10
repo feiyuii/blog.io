@@ -21,7 +21,7 @@ header-img: "img/Xacebook.jpg"
 
 
 
-[☞ 资料 etbx](https://pan.baidu.com/s/1jKcjgDg)
+
 ----
 
 
