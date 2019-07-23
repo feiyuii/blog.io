@@ -33,12 +33,12 @@ header-img: "img/Xacebook.jpg"
 
 
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
-<img src="http://wx2.sinaimg.cn/mw690/005IPc5ngy1fnkqs7i0t9j307t07vt9w.jpg" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;" />
+<img src="https://camo.githubusercontent.com/fa806248a004ed5e5f5884940a789e06432516c4/687474703a2f2f7778322e73696e61696d672e636e2f6d773639302f303035495063356e677931666e6b717337693074396a333037743037767439772e6a7067" style="border: 6px solid #aa9988; border-radius: 20px 20px; width: 185px;" />
 <div style="margin-top: 10px; text-align: center;">支付宝扫码</div>
 </div>
 
 <div style="text-align: center; margin-top: 40px; display:inline-block;">
-<img src="http://wx1.sinaimg.cn/mw690/005IPc5ngy1fnkqrzhmraj30bx0bxgmb.jpg" style="border: 6px solid #778811; border-radius: 20px 20px; width: 185px;" />
+<img src="https://camo.githubusercontent.com/68c1ff3c9eee380a4eafa5610cc76cd751ce37f9/687474703a2f2f7778312e73696e61696d672e636e2f6d773639302f303035495063356e677931666e6b71727a686d72616a33306278306278676d622e6a7067" style="border: 6px solid #778811; border-radius: 20px 20px; width: 185px;" />
 <div style="margin-top: 10px; text-align: center;">微信扫码</div>
 </div>
 
